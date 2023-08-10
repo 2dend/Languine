@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "ה",
+        "pronunication": "ha",
+        "priority": 0
+    },
+    {
+        "text": "be",
+        "pronunication": "be",
+        "priority": 1
+    },
+    {
+        "text": "to",
+        "pronunication": "to",
+        "priority": 2
+    },
+    {
+        "text": "of",
+        "pronunication": "of",
+        "priority": 3
+    },
+    {
+        "text": "and",
+        "pronunication": "and",
+        "priority": 4
+    },
+    {
+        "text": "a",
+        "pronunication": "a",
+        "priority": 5
+    },
+    {
+        "text": "in",
+        "pronunication": "in",
+        "priority": 6
+    },
+    {
+        "text": "that",
+        "pronunication": "that",
+        "priority": 7
+    },
+    {
+        "text": "have",
+        "pronunication": "have",
+        "priority": 8
+    },
+    {
+        "text": "I",
+        "pronunication": "I",
+        "priority": 9
+    },
+    {
+        "text": "it",
+        "pronunication": "it",
+        "priority": 10
+    },
+    {
+        "text": "for",
+        "pronunication": "for",
+        "priority": 11
+    },
+    {
+        "text": "not",
+        "pronunication": "not",
+        "priority": 12
+    },
+    {
+        "text": "on",
+        "pronunication": "on",
+        "priority": 13
+    },
+    {
+        "text": "with",
+        "pronunication": "with",
+        "priority": 14
+    },
+    {
+        "text": "he",
+        "pronunication": "he",
+        "priority": 15
+    },
+    {
+        "text": "as",
+        "pronunication": "as",
+        "priority": 16
+    },
+    {
+        "text": "you",
+        "pronunication": "you",
+        "priority": 17
+    },
+    {
+        "text": "do",
+        "pronunication": "do",
+        "priority": 18
+    },
+    {
+        "text": "at",
+        "pronunication": "at",
+        "priority": 19
+    },
+    {
+        "text": "this",
+        "pronunication": "this",
+        "priority": 20
+    },
+    {
+        "text": "but",
+        "pronunication": "but",
+        "priority": 21
+    },
+    {
+        "text": "his",
+        "pronunication": "his",
+        "priority": 22
+    },
+    {
+        "text": "by",
+        "pronunication": "by",
+        "priority": 23
+    },
+    {
+        "text": "from",
+        "pronunication": "from",
+        "priority": 24
+    },
+    {
+        "text": "they",
+        "pronunication": "they",
+        "priority": 25
+    },
+    {
+        "text": "we",
+        "pronunication": "we",
+        "priority": 26
+    },
+    {
+        "text": "say",
+        "pronunication": "say",
+        "priority": 27
+    },
+    {
+        "text": "her",
+        "pronunication": "her",
+        "priority": 28
+    },
+    {
+        "text": "she",
+        "pronunication": "she",
+        "priority": 29
+    },
+    {
+        "text": "or",
+        "pronunication": "or",
+        "priority": 30
+    },
+    {
+        "text": "an",
+        "pronunication": "an",
+        "priority": 31
+    },
+    {
+        "text": "will",
+        "pronunication": "will",
+        "priority": 32
+    },
+    {
+        "text": "my",
+        "pronunication": "my",
+        "priority": 33
+    },
+    {
+        "text": "one",
+        "pronunication": "one",
+        "priority": 34
+    },
+    {
+        "text": "all",
+        "pronunication": "all",
+        "priority": 35
+    },
+    {
+        "text": "would",
+        "pronunication": "would",
+        "priority": 36
+    },
+    {
+        "text": "there",
+        "pronunication": "there",
+        "priority": 37
+    },
+    {
+        "text": "their",
+        "pronunication": "their",
+        "priority": 38
+    },
+    {
+        "text": "what",
+        "pronunication": "what",
+        "priority": 39
+    },
+    {
+        "text": "so",
+        "pronunication": "so",
+        "priority": 40
+    },
+    {
+        "text": "up",
+        "pronunication": "up",
+        "priority": 41
+    },
+    {
+        "text": "out",
+        "pronunication": "out",
+        "priority": 42
+    },
+    {
+        "text": "if",
+        "pronunication": "if",
+        "priority": 43
+    },
+    {
+        "text": "about",
+        "pronunication": "about",
+        "priority": 44
+    },
+    {
+        "text": "who",
+        "pronunication": "who",
+        "priority": 45
+    },
+    {
+        "text": "get",
+        "pronunication": "get",
+        "priority": 46
+    },
+    {
+        "text": "which",
+        "pronunication": "which",
+        "priority": 47
+    },
+    {
+        "text": "go",
+        "pronunication": "go",
+        "priority": 48
+    },
+    {
+        "text": "me",
+        "pronunication": "me",
+        "priority": 49
+    },
+    {
+        "text": "when",
+        "pronunication": "when",
+        "priority": 50
+    },
+    {
+        "text": "make",
+        "pronunication": "make",
+        "priority": 51
+    },
+    {
+        "text": "can",
+        "pronunication": "can",
+        "priority": 52
+    },
+    {
+        "text": "like",
+        "pronunication": "like",
+        "priority": 53
+    },
+    {
+        "text": "time",
+        "pronunication": "time",
+        "priority": 54
+    },
+    {
+        "text": "no",
+        "pronunication": "no",
+        "priority": 55
+    },
+    {
+        "text": "just",
+        "pronunication": "just",
+        "priority": 56
+    },
+    {
+        "text": "him",
+        "pronunication": "him",
+        "priority": 57
+    },
+    {
+        "text": "know",
+        "pronunication": "know",
+        "priority": 58
+    },
+    {
+        "text": "take",
+        "pronunication": "take",
+        "priority": 59
+    },
+    {
+        "text": "people",
+        "pronunication": "people",
+        "priority": 60
+    },
+    {
+        "text": "into",
+        "pronunication": "into",
+        "priority": 61
+    },
+    {
+        "text": "year",
+        "pronunication": "year",
+        "priority": 62
+    },
+    {
+        "text": "your",
+        "pronunication": "your",
+        "priority": 63
+    },
+    {
+        "text": "good",
+        "pronunication": "good",
+        "priority": 64
+    },
+    {
+        "text": "some",
+        "pronunication": "some",
+        "priority": 65
+    },
+    {
+        "text": "could",
+        "pronunication": "could",
+        "priority": 66
+    },
+    {
+        "text": "them",
+        "pronunication": "them",
+        "priority": 67
+    },
+    {
+        "text": "see",
+        "pronunication": "see",
+        "priority": 68
+    },
+    {
+        "text": "other",
+        "pronunication": "other",
+        "priority": 69
+    },
+    {
+        "text": "than",
+        "pronunication": "than",
+        "priority": 70
+    },
+    {
+        "text": "then",
+        "pronunication": "then",
+        "priority": 71
+    },
+    {
+        "text": "now",
+        "pronunication": "now",
+        "priority": 72
+    },
+    {
+        "text": "look",
+        "pronunication": "look",
+        "priority": 73
+    },
+    {
+        "text": "only",
+        "pronunication": "only",
+        "priority": 74
+    },
+    {
+        "text": "come",
+        "pronunication": "come",
+        "priority": 75
+    },
+    {
+        "text": "its",
+        "pronunication": "its",
+        "priority": 76
+    },
+    {
+        "text": "over",
+        "pronunication": "over",
+        "priority": 77
+    },
+    {
+        "text": "think",
+        "pronunication": "think",
+        "priority": 78
+    },
+    {
+        "text": "also",
+        "pronunication": "also",
+        "priority": 79
+    },
+    {
+        "text": "back",
+        "pronunication": "back",
+        "priority": 80
+    },
+    {
+        "text": "after",
+        "pronunication": "after",
+        "priority": 81
+    },
+    {
+        "text": "use",
+        "pronunication": "use",
+        "priority": 82
+    },
+    {
+        "text": "two",
+        "pronunication": "two",
+        "priority": 83
+    },
+    {
+        "text": "how",
+        "pronunication": "how",
+        "priority": 84
+    },
+    {
+        "text": "our",
+        "pronunication": "our",
+        "priority": 85
+    },
+    {
+        "text": "work",
+        "pronunication": "work",
+        "priority": 86
+    },
+    {
+        "text": "first",
+        "pronunication": "first",
+        "priority": 87
+    },
+    {
+        "text": "well",
+        "pronunication": "well",
+        "priority": 88
+    },
+    {
+        "text": "way",
+        "pronunication": "way",
+        "priority": 89
+    },
+    {
+        "text": "even",
+        "pronunication": "even",
+        "priority": 90
+    },
+    {
+        "text": "new",
+        "pronunication": "new",
+        "priority": 91
+    },
+    {
+        "text": "want",
+        "pronunication": "want",
+        "priority": 92
+    },
+    {
+        "text": "because",
+        "pronunication": "because",
+        "priority": 93
+    },
+    {
+        "text": "any",
+        "pronunication": "any",
+        "priority": 94
+    },
+    {
+        "text": "these",
+        "pronunication": "these",
+        "priority": 95
+    },
+    {
+        "text": "give",
+        "pronunication": "give",
+        "priority": 96
+    },
+    {
+        "text": "day",
+        "pronunication": "day",
+        "priority": 97
+    },
+    {
+        "text": "most",
+        "pronunication": "most",
+        "priority": 98
+    },
+    {
+        "text": "us",
+        "pronunication": "us",
+        "priority": 99
+    },
+    {
+        "text": "be",
+        "pronunication": "be",
+        "priority": 100
+    },
+    {
+        "text": "have",
+        "pronunication": "have",
+        "priority": 101
+    },
+    {
+        "text": "do",
+        "pronunication": "do",
+        "priority": 102
+    },
+    {
+        "text": "say",
+        "pronunication": "say",
+        "priority": 103
+    },
+    {
+        "text": "go",
+        "pronunication": "go",
+        "priority": 104
+    },
+    {
+        "text": "can",
+        "pronunication": "can",
+        "priority": 105
+    },
+    {
+        "text": "get",
+        "pronunication": "get",
+        "priority": 106
+    },
+    {
+        "text": "would",
+        "pronunication": "would",
+        "priority": 107
+    },
+    {
+        "text": "make",
+        "pronunication": "make",
+        "priority": 108
+    },
+    {
+        "text": "know",
+        "pronunication": "know",
+        "priority": 109
+    },
+    {
+        "text": "will",
+        "pronunication": "will",
+        "priority": 110
+    },
+    {
+        "text": "think",
+        "pronunication": "think",
+        "priority": 111
+    },
+    {
+        "text": "take",
+        "pronunication": "take",
+        "priority": 112
+    },
+    {
+        "text": "see",
+        "pronunication": "see",
+        "priority": 113
+    },
+    {
+        "text": "come",
+        "pronunication": "come",
+        "priority": 114
+    },
+    {
+        "text": "could",
+        "pronunication": "could",
+        "priority": 115
+    },
+    {
+        "text": "want",
+        "pronunication": "want",
+        "priority": 116
+    },
+    {
+        "text": "look",
+        "pronunication": "look",
+        "priority": 117
+    },
+    {
+        "text": "use",
+        "pronunication": "use",
+        "priority": 118
+    },
+    {
+        "text": "find",
+        "pronunication": "find",
+        "priority": 119
+    },
+    {
+        "text": "give",
+        "pronunication": "give",
+        "priority": 120
+    },
+    {
+        "text": "tell",
+        "pronunication": "tell",
+        "priority": 121
+    },
+    {
+        "text": "work",
+        "pronunication": "work",
+        "priority": 122
+    },
+    {
+        "text": "may",
+        "pronunication": "may",
+        "priority": 123
+    },
+    {
+        "text": "should\t",
+        "pronunication": "should\t",
+        "priority": 124
+    },
+    {
+        "text": "call",
+        "pronunication": "call",
+        "priority": 125
+    },
+    {
+        "text": "try",
+        "pronunication": "try",
+        "priority": 126
+    },
+    {
+        "text": "ask",
+        "pronunication": "ask",
+        "priority": 127
+    },
+    {
+        "text": "need",
+        "pronunication": "need",
+        "priority": 128
+    },
+    {
+        "text": "feel",
+        "pronunication": "feel",
+        "priority": 129
+    },
+    {
+        "text": "become",
+        "pronunication": "become",
+        "priority": 130
+    },
+    {
+        "text": "leave",
+        "pronunication": "leave",
+        "priority": 131
+    },
+    {
+        "text": "put",
+        "pronunication": "put",
+        "priority": 132
+    },
+    {
+        "text": "mean",
+        "pronunication": "mean",
+        "priority": 133
+    },
+    {
+        "text": "keep",
+        "pronunication": "keep",
+        "priority": 134
+    },
+    {
+        "text": "let",
+        "pronunication": "let",
+        "priority": 135
+    },
+    {
+        "text": "begin",
+        "pronunication": "begin",
+        "priority": 136
+    },
+    {
+        "text": "seem",
+        "pronunication": "seem",
+        "priority": 137
+    },
+    {
+        "text": "help",
+        "pronunication": "help",
+        "priority": 138
+    },
+    {
+        "text": "talk",
+        "pronunication": "talk",
+        "priority": 139
+    },
+    {
+        "text": "turn",
+        "pronunication": "turn",
+        "priority": 140
+    },
+    {
+        "text": "start",
+        "pronunication": "start",
+        "priority": 141
+    },
+    {
+        "text": "might",
+        "pronunication": "might",
+        "priority": 142
+    },
+    {
+        "text": "show",
+        "pronunication": "show",
+        "priority": 143
+    },
+    {
+        "text": "hear",
+        "pronunication": "hear",
+        "priority": 144
+    },
+    {
+        "text": "play",
+        "pronunication": "play",
+        "priority": 145
+    },
+    {
+        "text": "run",
+        "pronunication": "run",
+        "priority": 146
+    },
+    {
+        "text": "move",
+        "pronunication": "move",
+        "priority": 147
+    },
+    {
+        "text": "like",
+        "pronunication": "like",
+        "priority": 148
+    },
+    {
+        "text": "live",
+        "pronunication": "live",
+        "priority": 149
+    },
+    {
+        "text": "believe",
+        "pronunication": "believe",
+        "priority": 150
+    },
+    {
+        "text": "hold",
+        "pronunication": "hold",
+        "priority": 151
+    },
+    {
+        "text": "bring",
+        "pronunication": "bring",
+        "priority": 152
+    },
+    {
+        "text": "happen",
+        "pronunication": "happen",
+        "priority": 153
+    },
+    {
+        "text": "must",
+        "pronunication": "must",
+        "priority": 154
+    },
+    {
+        "text": "write",
+        "pronunication": "write",
+        "priority": 155
+    },
+    {
+        "text": "provide",
+        "pronunication": "provide",
+        "priority": 156
+    },
+    {
+        "text": "sit",
+        "pronunication": "sit",
+        "priority": 157
+    },
+    {
+        "text": "stand",
+        "pronunication": "stand",
+        "priority": 158
+    },
+    {
+        "text": "lose",
+        "pronunication": "lose",
+        "priority": 159
+    },
+    {
+        "text": "pay",
+        "pronunication": "pay",
+        "priority": 160
+    },
+    {
+        "text": "meet",
+        "pronunication": "meet",
+        "priority": 161
+    },
+    {
+        "text": "include",
+        "pronunication": "include",
+        "priority": 162
+    },
+    {
+        "text": "continue",
+        "pronunication": "continue",
+        "priority": 163
+    },
+    {
+        "text": "set",
+        "pronunication": "set",
+        "priority": 164
+    },
+    {
+        "text": "learn",
+        "pronunication": "learn",
+        "priority": 165
+    },
+    {
+        "text": "change",
+        "pronunication": "change",
+        "priority": 166
+    },
+    {
+        "text": "lead",
+        "pronunication": "lead",
+        "priority": 167
+    },
+    {
+        "text": "understand",
+        "pronunication": "understand",
+        "priority": 168
+    },
+    {
+        "text": "watch",
+        "pronunication": "watch",
+        "priority": 169
+    },
+    {
+        "text": "follow",
+        "pronunication": "follow",
+        "priority": 170
+    },
+    {
+        "text": "stop",
+        "pronunication": "stop",
+        "priority": 171
+    },
+    {
+        "text": "create",
+        "pronunication": "create",
+        "priority": 172
+    },
+    {
+        "text": "speak",
+        "pronunication": "speak",
+        "priority": 173
+    },
+    {
+        "text": "read",
+        "pronunication": "read",
+        "priority": 174
+    },
+    {
+        "text": "allow",
+        "pronunication": "allow",
+        "priority": 175
+    },
+    {
+        "text": "add",
+        "pronunication": "add",
+        "priority": 176
+    },
+    {
+        "text": "spend",
+        "pronunication": "spend",
+        "priority": 177
+    },
+    {
+        "text": "grow",
+        "pronunication": "grow",
+        "priority": 178
+    },
+    {
+        "text": "open",
+        "pronunication": "open",
+        "priority": 179
+    },
+    {
+        "text": "walk",
+        "pronunication": "walk",
+        "priority": 180
+    },
+    {
+        "text": "win",
+        "pronunication": "win",
+        "priority": 181
+    },
+    {
+        "text": "offer",
+        "pronunication": "offer",
+        "priority": 182
+    },
+    {
+        "text": "remember",
+        "pronunication": "remember",
+        "priority": 183
+    },
+    {
+        "text": "love",
+        "pronunication": "love",
+        "priority": 184
+    },
+    {
+        "text": "consider",
+        "pronunication": "consider",
+        "priority": 185
+    },
+    {
+        "text": "appear",
+        "pronunication": "appear",
+        "priority": 186
+    },
+    {
+        "text": "buy",
+        "pronunication": "buy",
+        "priority": 187
+    },
+    {
+        "text": "wait",
+        "pronunication": "wait",
+        "priority": 188
+    },
+    {
+        "text": "serve",
+        "pronunication": "serve",
+        "priority": 189
+    },
+    {
+        "text": "die",
+        "pronunication": "die",
+        "priority": 190
+    },
+    {
+        "text": "send",
+        "pronunication": "send",
+        "priority": 191
+    },
+    {
+        "text": "expect",
+        "pronunication": "expect",
+        "priority": 192
+    },
+    {
+        "text": "build",
+        "pronunication": "build",
+        "priority": 193
+    },
+    {
+        "text": "stay",
+        "pronunication": "stay",
+        "priority": 194
+    },
+    {
+        "text": "fall",
+        "pronunication": "fall",
+        "priority": 195
+    },
+    {
+        "text": "cut",
+        "pronunication": "cut",
+        "priority": 196
+    },
+    {
+        "text": "reach",
+        "pronunication": "reach",
+        "priority": 197
+    },
+    {
+        "text": "kill",
+        "pronunication": "kill",
+        "priority": 198
+    },
+    {
+        "text": "remain",
+        "pronunication": "remain",
+        "priority": 199
+    },
+    {
+        "text": "time",
+        "pronunication": "time",
+        "priority": 200
+    },
+    {
+        "text": "year",
+        "pronunication": "year",
+        "priority": 201
+    },
+    {
+        "text": "people",
+        "pronunication": "people",
+        "priority": 202
+    },
+    {
+        "text": "way",
+        "pronunication": "way",
+        "priority": 203
+    },
+    {
+        "text": "day",
+        "pronunication": "day",
+        "priority": 204
+    },
+    {
+        "text": "man",
+        "pronunication": "man",
+        "priority": 205
+    },
+    {
+        "text": "thing",
+        "pronunication": "thing",
+        "priority": 206
+    },
+    {
+        "text": "woman",
+        "pronunication": "woman",
+        "priority": 207
+    },
+    {
+        "text": "life",
+        "pronunication": "life",
+        "priority": 208
+    },
+    {
+        "text": "child",
+        "pronunication": "child",
+        "priority": 209
+    },
+    {
+        "text": "world",
+        "pronunication": "world",
+        "priority": 210
+    },
+    {
+        "text": "school",
+        "pronunication": "school",
+        "priority": 211
+    },
+    {
+        "text": "state",
+        "pronunication": "state",
+        "priority": 212
+    },
+    {
+        "text": "family",
+        "pronunication": "family",
+        "priority": 213
+    },
+    {
+        "text": "student",
+        "pronunication": "student",
+        "priority": 214
+    },
+    {
+        "text": "group",
+        "pronunication": "group",
+        "priority": 215
+    },
+    {
+        "text": "country",
+        "pronunication": "country",
+        "priority": 216
+    },
+    {
+        "text": "problem",
+        "pronunication": "problem",
+        "priority": 217
+    },
+    {
+        "text": "hand",
+        "pronunication": "hand",
+        "priority": 218
+    },
+    {
+        "text": "part",
+        "pronunication": "part",
+        "priority": 219
+    },
+    {
+        "text": "place",
+        "pronunication": "place",
+        "priority": 220
+    },
+    {
+        "text": "case",
+        "pronunication": "case",
+        "priority": 221
+    },
+    {
+        "text": "week",
+        "pronunication": "week",
+        "priority": 222
+    },
+    {
+        "text": "company",
+        "pronunication": "company",
+        "priority": 223
+    },
+    {
+        "text": "system\t",
+        "pronunication": "system\t",
+        "priority": 224
+    },
+    {
+        "text": "program",
+        "pronunication": "program",
+        "priority": 225
+    },
+    {
+        "text": "question",
+        "pronunication": "question",
+        "priority": 226
+    },
+    {
+        "text": "work",
+        "pronunication": "work",
+        "priority": 227
+    },
+    {
+        "text": "government",
+        "pronunication": "government",
+        "priority": 228
+    },
+    {
+        "text": "number",
+        "pronunication": "number",
+        "priority": 229
+    },
+    {
+        "text": "night",
+        "pronunication": "night",
+        "priority": 230
+    },
+    {
+        "text": "point",
+        "pronunication": "point",
+        "priority": 231
+    },
+    {
+        "text": "home",
+        "pronunication": "home",
+        "priority": 232
+    },
+    {
+        "text": "water",
+        "pronunication": "water",
+        "priority": 233
+    },
+    {
+        "text": "room",
+        "pronunication": "room",
+        "priority": 234
+    },
+    {
+        "text": "mother",
+        "pronunication": "mother",
+        "priority": 235
+    },
+    {
+        "text": "area",
+        "pronunication": "area",
+        "priority": 236
+    },
+    {
+        "text": "money",
+        "pronunication": "money",
+        "priority": 237
+    },
+    {
+        "text": "story",
+        "pronunication": "story",
+        "priority": 238
+    },
+    {
+        "text": "fact",
+        "pronunication": "fact",
+        "priority": 239
+    },
+    {
+        "text": "month",
+        "pronunication": "month",
+        "priority": 240
+    },
+    {
+        "text": "lot",
+        "pronunication": "lot",
+        "priority": 241
+    },
+    {
+        "text": "right",
+        "pronunication": "right",
+        "priority": 242
+    },
+    {
+        "text": "study",
+        "pronunication": "study",
+        "priority": 243
+    },
+    {
+        "text": "book",
+        "pronunication": "book",
+        "priority": 244
+    },
+    {
+        "text": "eye",
+        "pronunication": "eye",
+        "priority": 245
+    },
+    {
+        "text": "job",
+        "pronunication": "job",
+        "priority": 246
+    },
+    {
+        "text": "word",
+        "pronunication": "word",
+        "priority": 247
+    },
+    {
+        "text": "business",
+        "pronunication": "business",
+        "priority": 248
+    },
+    {
+        "text": "issue",
+        "pronunication": "issue",
+        "priority": 249
+    },
+    {
+        "text": "side",
+        "pronunication": "side",
+        "priority": 250
+    },
+    {
+        "text": "kind",
+        "pronunication": "kind",
+        "priority": 251
+    },
+    {
+        "text": "head",
+        "pronunication": "head",
+        "priority": 252
+    },
+    {
+        "text": "house",
+        "pronunication": "house",
+        "priority": 253
+    },
+    {
+        "text": "service",
+        "pronunication": "service",
+        "priority": 254
+    },
+    {
+        "text": "friend",
+        "pronunication": "friend",
+        "priority": 255
+    },
+    {
+        "text": "father",
+        "pronunication": "father",
+        "priority": 256
+    },
+    {
+        "text": "power",
+        "pronunication": "power",
+        "priority": 257
+    },
+    {
+        "text": "hour",
+        "pronunication": "hour",
+        "priority": 258
+    },
+    {
+        "text": "game",
+        "pronunication": "game",
+        "priority": 259
+    },
+    {
+        "text": "line",
+        "pronunication": "line",
+        "priority": 260
+    },
+    {
+        "text": "end",
+        "pronunication": "end",
+        "priority": 261
+    },
+    {
+        "text": "member",
+        "pronunication": "member",
+        "priority": 262
+    },
+    {
+        "text": "law",
+        "pronunication": "law",
+        "priority": 263
+    },
+    {
+        "text": "car",
+        "pronunication": "car",
+        "priority": 264
+    },
+    {
+        "text": "city",
+        "pronunication": "city",
+        "priority": 265
+    },
+    {
+        "text": "community",
+        "pronunication": "community",
+        "priority": 266
+    },
+    {
+        "text": "name",
+        "pronunication": "name",
+        "priority": 267
+    },
+    {
+        "text": "president",
+        "pronunication": "president",
+        "priority": 268
+    },
+    {
+        "text": "team",
+        "pronunication": "team",
+        "priority": 269
+    },
+    {
+        "text": "minute",
+        "pronunication": "minute",
+        "priority": 270
+    },
+    {
+        "text": "idea",
+        "pronunication": "idea",
+        "priority": 271
+    },
+    {
+        "text": "kid",
+        "pronunication": "kid",
+        "priority": 272
+    },
+    {
+        "text": "body",
+        "pronunication": "body",
+        "priority": 273
+    },
+    {
+        "text": "information",
+        "pronunication": "information",
+        "priority": 274
+    },
+    {
+        "text": "back",
+        "pronunication": "back",
+        "priority": 275
+    },
+    {
+        "text": "parent",
+        "pronunication": "parent",
+        "priority": 276
+    },
+    {
+        "text": "face",
+        "pronunication": "face",
+        "priority": 277
+    },
+    {
+        "text": "others",
+        "pronunication": "others",
+        "priority": 278
+    },
+    {
+        "text": "level",
+        "pronunication": "level",
+        "priority": 279
+    },
+    {
+        "text": "office",
+        "pronunication": "office",
+        "priority": 280
+    },
+    {
+        "text": "door",
+        "pronunication": "door",
+        "priority": 281
+    },
+    {
+        "text": "health",
+        "pronunication": "health",
+        "priority": 282
+    },
+    {
+        "text": "person",
+        "pronunication": "person",
+        "priority": 283
+    },
+    {
+        "text": "art",
+        "pronunication": "art",
+        "priority": 284
+    },
+    {
+        "text": "war",
+        "pronunication": "war",
+        "priority": 285
+    },
+    {
+        "text": "history",
+        "pronunication": "history",
+        "priority": 286
+    },
+    {
+        "text": "party",
+        "pronunication": "party",
+        "priority": 287
+    },
+    {
+        "text": "result",
+        "pronunication": "result",
+        "priority": 288
+    },
+    {
+        "text": "change",
+        "pronunication": "change",
+        "priority": 289
+    },
+    {
+        "text": "morning",
+        "pronunication": "morning",
+        "priority": 290
+    },
+    {
+        "text": "reason",
+        "pronunication": "reason",
+        "priority": 291
+    },
+    {
+        "text": "research",
+        "pronunication": "research",
+        "priority": 292
+    },
+    {
+        "text": "girl",
+        "pronunication": "girl",
+        "priority": 293
+    },
+    {
+        "text": "guy",
+        "pronunication": "guy",
+        "priority": 294
+    },
+    {
+        "text": "moment",
+        "pronunication": "moment",
+        "priority": 295
+    },
+    {
+        "text": "air",
+        "pronunication": "air",
+        "priority": 296
+    },
+    {
+        "text": "teacher",
+        "pronunication": "teacher",
+        "priority": 297
+    },
+    {
+        "text": "force",
+        "pronunication": "force",
+        "priority": 298
+    },
+    {
+        "text": "education",
+        "pronunication": "education",
+        "priority": 299
+    },
+    {
+        "text": "other",
+        "pronunication": "other",
+        "priority": 300
+    },
+    {
+        "text": "new",
+        "pronunication": "new",
+        "priority": 301
+    },
+    {
+        "text": "good",
+        "pronunication": "good",
+        "priority": 302
+    },
+    {
+        "text": "high",
+        "pronunication": "high",
+        "priority": 303
+    },
+    {
+        "text": "old",
+        "pronunication": "old",
+        "priority": 304
+    },
+    {
+        "text": "great",
+        "pronunication": "great",
+        "priority": 305
+    },
+    {
+        "text": "big",
+        "pronunication": "big",
+        "priority": 306
+    },
+    {
+        "text": "American",
+        "pronunication": "American",
+        "priority": 307
+    },
+    {
+        "text": "small",
+        "pronunication": "small",
+        "priority": 308
+    },
+    {
+        "text": "large",
+        "pronunication": "large",
+        "priority": 309
+    },
+    {
+        "text": "national",
+        "pronunication": "national",
+        "priority": 310
+    },
+    {
+        "text": "young",
+        "pronunication": "young",
+        "priority": 311
+    },
+    {
+        "text": "different",
+        "pronunication": "different",
+        "priority": 312
+    },
+    {
+        "text": "black",
+        "pronunication": "black",
+        "priority": 313
+    },
+    {
+        "text": "long",
+        "pronunication": "long",
+        "priority": 314
+    },
+    {
+        "text": "little",
+        "pronunication": "little",
+        "priority": 315
+    },
+    {
+        "text": "important",
+        "pronunication": "important",
+        "priority": 316
+    },
+    {
+        "text": "political",
+        "pronunication": "political",
+        "priority": 317
+    },
+    {
+        "text": "bad",
+        "pronunication": "bad",
+        "priority": 318
+    },
+    {
+        "text": "white",
+        "pronunication": "white",
+        "priority": 319
+    },
+    {
+        "text": "real",
+        "pronunication": "real",
+        "priority": 320
+    },
+    {
+        "text": "best",
+        "pronunication": "best",
+        "priority": 321
+    },
+    {
+        "text": "right",
+        "pronunication": "right",
+        "priority": 322
+    },
+    {
+        "text": "social",
+        "pronunication": "social",
+        "priority": 323
+    },
+    {
+        "text": "only\t",
+        "pronunication": "only\t",
+        "priority": 324
+    },
+    {
+        "text": "public",
+        "pronunication": "public",
+        "priority": 325
+    },
+    {
+        "text": "sure",
+        "pronunication": "sure",
+        "priority": 326
+    },
+    {
+        "text": "low",
+        "pronunication": "low",
+        "priority": 327
+    },
+    {
+        "text": "early",
+        "pronunication": "early",
+        "priority": 328
+    },
+    {
+        "text": "able",
+        "pronunication": "able",
+        "priority": 329
+    },
+    {
+        "text": "human",
+        "pronunication": "human",
+        "priority": 330
+    },
+    {
+        "text": "local",
+        "pronunication": "local",
+        "priority": 331
+    },
+    {
+        "text": "late",
+        "pronunication": "late",
+        "priority": 332
+    },
+    {
+        "text": "hard",
+        "pronunication": "hard",
+        "priority": 333
+    },
+    {
+        "text": "major",
+        "pronunication": "major",
+        "priority": 334
+    },
+    {
+        "text": "better",
+        "pronunication": "better",
+        "priority": 335
+    },
+    {
+        "text": "economic",
+        "pronunication": "economic",
+        "priority": 336
+    },
+    {
+        "text": "strong",
+        "pronunication": "strong",
+        "priority": 337
+    },
+    {
+        "text": "possible",
+        "pronunication": "possible",
+        "priority": 338
+    },
+    {
+        "text": "whole",
+        "pronunication": "whole",
+        "priority": 339
+    },
+    {
+        "text": "free",
+        "pronunication": "free",
+        "priority": 340
+    },
+    {
+        "text": "military",
+        "pronunication": "military",
+        "priority": 341
+    },
+    {
+        "text": "true",
+        "pronunication": "true",
+        "priority": 342
+    },
+    {
+        "text": "federal",
+        "pronunication": "federal",
+        "priority": 343
+    },
+    {
+        "text": "international",
+        "pronunication": "international",
+        "priority": 344
+    },
+    {
+        "text": "full",
+        "pronunication": "full",
+        "priority": 345
+    },
+    {
+        "text": "special",
+        "pronunication": "special",
+        "priority": 346
+    },
+    {
+        "text": "easy",
+        "pronunication": "easy",
+        "priority": 347
+    },
+    {
+        "text": "clear",
+        "pronunication": "clear",
+        "priority": 348
+    },
+    {
+        "text": "recent\t",
+        "pronunication": "recent\t",
+        "priority": 349
+    },
+    {
+        "text": "certain",
+        "pronunication": "certain",
+        "priority": 350
+    },
+    {
+        "text": "personal",
+        "pronunication": "personal",
+        "priority": 351
+    },
+    {
+        "text": "open",
+        "pronunication": "open",
+        "priority": 352
+    },
+    {
+        "text": "red",
+        "pronunication": "red",
+        "priority": 353
+    },
+    {
+        "text": "difficult",
+        "pronunication": "difficult",
+        "priority": 354
+    },
+    {
+        "text": "available",
+        "pronunication": "available",
+        "priority": 355
+    },
+    {
+        "text": "likely",
+        "pronunication": "likely",
+        "priority": 356
+    },
+    {
+        "text": "short",
+        "pronunication": "short",
+        "priority": 357
+    },
+    {
+        "text": "single",
+        "pronunication": "single",
+        "priority": 358
+    },
+    {
+        "text": "medical",
+        "pronunication": "medical",
+        "priority": 359
+    },
+    {
+        "text": "current",
+        "pronunication": "current",
+        "priority": 360
+    },
+    {
+        "text": "wrong",
+        "pronunication": "wrong",
+        "priority": 361
+    },
+    {
+        "text": "private",
+        "pronunication": "private",
+        "priority": 362
+    },
+    {
+        "text": "past",
+        "pronunication": "past",
+        "priority": 363
+    },
+    {
+        "text": "foreign",
+        "pronunication": "foreign",
+        "priority": 364
+    },
+    {
+        "text": "fine",
+        "pronunication": "fine",
+        "priority": 365
+    },
+    {
+        "text": "common",
+        "pronunication": "common",
+        "priority": 366
+    },
+    {
+        "text": "poor",
+        "pronunication": "poor",
+        "priority": 367
+    },
+    {
+        "text": "natural",
+        "pronunication": "natural",
+        "priority": 368
+    },
+    {
+        "text": "significant",
+        "pronunication": "significant",
+        "priority": 369
+    },
+    {
+        "text": "similar",
+        "pronunication": "similar",
+        "priority": 370
+    },
+    {
+        "text": "hot",
+        "pronunication": "hot",
+        "priority": 371
+    },
+    {
+        "text": "dead",
+        "pronunication": "dead",
+        "priority": 372
+    },
+    {
+        "text": "central",
+        "pronunication": "central",
+        "priority": 373
+    },
+    {
+        "text": "happy\t",
+        "pronunication": "happy\t",
+        "priority": 374
+    },
+    {
+        "text": "serious",
+        "pronunication": "serious",
+        "priority": 375
+    },
+    {
+        "text": "ready",
+        "pronunication": "ready",
+        "priority": 376
+    },
+    {
+        "text": "simple",
+        "pronunication": "simple",
+        "priority": 377
+    },
+    {
+        "text": "left",
+        "pronunication": "left",
+        "priority": 378
+    },
+    {
+        "text": "physical",
+        "pronunication": "physical",
+        "priority": 379
+    },
+    {
+        "text": "general",
+        "pronunication": "general",
+        "priority": 380
+    },
+    {
+        "text": "environmental",
+        "pronunication": "environmental",
+        "priority": 381
+    },
+    {
+        "text": "financial",
+        "pronunication": "financial",
+        "priority": 382
+    },
+    {
+        "text": "blue",
+        "pronunication": "blue",
+        "priority": 383
+    },
+    {
+        "text": "democratic",
+        "pronunication": "democratic",
+        "priority": 384
+    },
+    {
+        "text": "dark",
+        "pronunication": "dark",
+        "priority": 385
+    },
+    {
+        "text": "various",
+        "pronunication": "various",
+        "priority": 386
+    },
+    {
+        "text": "entire",
+        "pronunication": "entire",
+        "priority": 387
+    },
+    {
+        "text": "close",
+        "pronunication": "close",
+        "priority": 388
+    },
+    {
+        "text": "legal",
+        "pronunication": "legal",
+        "priority": 389
+    },
+    {
+        "text": "religious",
+        "pronunication": "religious",
+        "priority": 390
+    },
+    {
+        "text": "cold",
+        "pronunication": "cold",
+        "priority": 391
+    },
+    {
+        "text": "final",
+        "pronunication": "final",
+        "priority": 392
+    },
+    {
+        "text": "main",
+        "pronunication": "main",
+        "priority": 393
+    },
+    {
+        "text": "green",
+        "pronunication": "green",
+        "priority": 394
+    },
+    {
+        "text": "nice",
+        "pronunication": "nice",
+        "priority": 395
+    },
+    {
+        "text": "huge",
+        "pronunication": "huge",
+        "priority": 396
+    },
+    {
+        "text": "popular",
+        "pronunication": "popular",
+        "priority": 397
+    },
+    {
+        "text": "traditional",
+        "pronunication": "traditional",
+        "priority": 398
+    },
+    {
+        "text": "cultural",
+        "pronunication": "cultural",
+        "priority": 399
+    }
+]
