@@ -6,7 +6,7 @@ import json
 
 
 def create_lang(meanings, lang):
-    with open(f'{lang}.json', 'w') as lang_json:
+    with open(f'languages/{lang}.json', 'w') as lang_json:
         lang_dict = []
         counter = 0
 
@@ -16,11 +16,10 @@ def create_lang(meanings, lang):
                 translated = GoogleTranslator(source='auto', target=lang).translate(m)
                 print("{} > {}".format(m, translated))
 
-                lang_dict.append({
-                    "text": translated,
-                    "pronunication": m,
-                    "priority": counter
-                    })
+                lang_dict.append(   {
+                                        "text": translated,
+                                        "pronunciation": "",
+                                    })
 
                 counter += 1
             lang_json.write(json.dumps(lang_dict, indent=4))
@@ -67,9 +66,12 @@ def choose_random_language(languages):
     return languages[choise]
 
 def get_word(lang, meaning_id):
-    with open(f"{lang}.json") as lang:
+    with open(f"languages/{lang}.json") as lang:
         words = json.loads(lang.read())
         return words[meaning_id]
+
+def word_to_string(word, language):
+    return f"{word['text']} [{word['pronunciation']}] ({language})"
 
 def generate_options(   meaning_id,
                         languages,
@@ -87,7 +89,8 @@ def generate_options(   meaning_id,
         while language == original_language:
             language = choose_random_language(languages)
         word = get_word(language, _meaning_id)
-        option = f"{word['text']} ({language})"
+        # option = f"{word['text']} ({language})"
+        option = word_to_string(word, language)
         if option in options: continue
 
         options.append(option)
@@ -104,7 +107,12 @@ def shuffle_options(options, answer):
 def game():
     selected_languages = st.multiselect("what languages to include?",
                                 get_available_languages(),
-                                get_available_languages())
+                                [   "english",
+                                    # "french",
+                                    "russian",
+                                    # "arabic",
+                                    # "spanish"
+                                ])
 
     if "answer" in st.session_state:
         answer = st.session_state['answer']
@@ -119,20 +127,20 @@ def game():
                     st.session_state['option_3']
                   ]
 
-        chosen_index = 0
+        chosen_index = -1
         for i, selection in enumerate(selections):
             if selection:
                 chosen_index = i
                 break
-        chosen = options[chosen_index]
+        if chosen_index != -1:
+            chosen = options[chosen_index]
 
-        if selections[correct_index]:
-            st.write(f"Correct!")
-        else:
-            st.write(f"Wrong!")
-            st.write(f"{chosen}")
+            if selections[correct_index]:
+                st.write(f"Correct!")
+            else:
+                st.write(f"Wrong!")
 
-        st.write(f"{question} == {answer} ({get_word('english', question_meaning)['text']})")
+            st.write(f"{question} == {answer} ({get_word('english', question_meaning)['text']})")
 
     meaning_id, meaning_eng = choose_random_word()
 
@@ -140,7 +148,8 @@ def game():
 
     question_word = get_word(question_language, meaning_id)
 
-    question = f"{question_word['text']} ({question_language})"
+    # question = f"{question_word['text']} ({question_language})"
+    question = word_to_string(question_word, question_language)
     # st.write(question)
     st.markdown(f"# {question}")
 
@@ -149,7 +158,8 @@ def game():
         answer_language = choose_random_language(selected_languages)
 
     answer_word = get_word(answer_language, meaning_id)
-    answer = f"{answer_word['text']} ({answer_language})"
+    # answer = f"{answer_word['text']} ({answer_language})"
+    answer = word_to_string(answer_word, answer_language)
 
     options = generate_options(meaning_id, selected_languages, question_language)
     options, correct_index = shuffle_options(options, answer)
@@ -165,3 +175,4 @@ def game():
 
 if __name__=="__main__":
     game()
+    # build_db()

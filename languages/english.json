@@ -1,502 +1,502 @@
 [
     {
         "text": "the",
-        "pronunication": "the",
+        "pronunciation": "the",
         "priority": 0
     },
     {
         "text": "a, an",
-        "pronunication": "a, an",
+        "pronunciation": "a, an",
         "priority": 1
     },
     {
         "text": "to",
-        "pronunication": "to",
+        "pronunciation": "to",
         "priority": 2
     },
     {
         "text": "and",
-        "pronunication": "and",
+        "pronunciation": "and",
         "priority": 3
     },
     {
         "text": "of",
-        "pronunication": "of",
+        "pronunciation": "of",
         "priority": 4
     },
     {
         "text": "in",
-        "pronunication": "in",
+        "pronunciation": "in",
         "priority": 5
     },
     {
         "text": "about",
-        "pronunication": "about",
+        "pronunciation": "about",
         "priority": 6
     },
     {
         "text": "after",
-        "pronunication": "after",
+        "pronunciation": "after",
         "priority": 7
     },
     {
         "text": "before",
-        "pronunication": "before",
+        "pronunciation": "before",
         "priority": 8
     },
     {
         "text": "I",
-        "pronunication": "I",
+        "pronunciation": "I",
         "priority": 9
     },
     {
         "text": "you",
-        "pronunication": "you",
+        "pronunciation": "you",
         "priority": 10
     },
     {
         "text": "he",
-        "pronunication": "he",
+        "pronunciation": "he",
         "priority": 11
     },
     {
         "text": "she",
-        "pronunication": "she",
+        "pronunciation": "she",
         "priority": 12
     },
     {
         "text": "it",
-        "pronunication": "it",
+        "pronunciation": "it",
         "priority": 13
     },
     {
         "text": "we",
-        "pronunication": "we",
+        "pronunciation": "we",
         "priority": 14
     },
     {
         "text": "they",
-        "pronunication": "they",
+        "pronunciation": "they",
         "priority": 15
     },
     {
         "text": "that",
-        "pronunication": "that",
+        "pronunciation": "that",
         "priority": 16
     },
     {
         "text": "for",
-        "pronunication": "for",
+        "pronunciation": "for",
         "priority": 17
     },
     {
         "text": "on",
-        "pronunication": "on",
+        "pronunciation": "on",
         "priority": 18
     },
     {
         "text": "with",
-        "pronunication": "with",
+        "pronunciation": "with",
         "priority": 19
     },
     {
         "text": "but",
-        "pronunication": "but",
+        "pronunciation": "but",
         "priority": 20
     },
     {
         "text": "from",
-        "pronunication": "from",
+        "pronunciation": "from",
         "priority": 21
     },
     {
         "text": "or",
-        "pronunication": "or",
+        "pronunciation": "or",
         "priority": 22
     },
     {
         "text": "what",
-        "pronunication": "what",
+        "pronunciation": "what",
         "priority": 23
     },
     {
         "text": "how",
-        "pronunication": "how",
+        "pronunciation": "how",
         "priority": 24
     },
     {
         "text": "who",
-        "pronunication": "who",
+        "pronunciation": "who",
         "priority": 25
     },
     {
         "text": "when",
-        "pronunication": "when",
+        "pronunciation": "when",
         "priority": 26
     },
     {
         "text": "yes",
-        "pronunication": "yes",
+        "pronunciation": "yes",
         "priority": 27
     },
     {
         "text": "no",
-        "pronunication": "no",
+        "pronunciation": "no",
         "priority": 28
     },
     {
         "text": "now",
-        "pronunication": "now",
+        "pronunciation": "now",
         "priority": 29
     },
     {
         "text": "tomorrow",
-        "pronunication": "tomorrow",
+        "pronunciation": "tomorrow",
         "priority": 30
     },
     {
         "text": "today",
-        "pronunication": "today",
+        "pronunciation": "today",
         "priority": 31
     },
     {
         "text": "yesterday",
-        "pronunication": "yesterday",
+        "pronunciation": "yesterday",
         "priority": 32
     },
     {
         "text": "only",
-        "pronunication": "only",
+        "pronunciation": "only",
         "priority": 33
     },
     {
         "text": "because",
-        "pronunication": "because",
+        "pronunciation": "because",
         "priority": 34
     },
     {
         "text": "be",
-        "pronunication": "be",
+        "pronunciation": "be",
         "priority": 35
     },
     {
         "text": "have",
-        "pronunication": "have",
+        "pronunciation": "have",
         "priority": 36
     },
     {
         "text": "do",
-        "pronunication": "do",
+        "pronunciation": "do",
         "priority": 37
     },
     {
         "text": "get",
-        "pronunication": "get",
+        "pronunciation": "get",
         "priority": 38
     },
     {
         "text": "make",
-        "pronunication": "make",
+        "pronunciation": "make",
         "priority": 39
     },
     {
         "text": "go",
-        "pronunication": "go",
+        "pronunciation": "go",
         "priority": 40
     },
     {
         "text": "say",
-        "pronunication": "say",
+        "pronunciation": "say",
         "priority": 41
     },
     {
         "text": "see",
-        "pronunication": "see",
+        "pronunciation": "see",
         "priority": 42
     },
     {
         "text": "know",
-        "pronunication": "know",
+        "pronunciation": "know",
         "priority": 43
     },
     {
         "text": "think",
-        "pronunication": "think",
+        "pronunciation": "think",
         "priority": 44
     },
     {
         "text": "look",
-        "pronunication": "look",
+        "pronunciation": "look",
         "priority": 45
     },
     {
         "text": "want",
-        "pronunication": "want",
+        "pronunciation": "want",
         "priority": 46
     },
     {
         "text": "like",
-        "pronunication": "like",
+        "pronunciation": "like",
         "priority": 47
     },
     {
         "text": "take",
-        "pronunication": "take",
+        "pronunciation": "take",
         "priority": 48
     },
     {
         "text": "give",
-        "pronunication": "give",
+        "pronunciation": "give",
         "priority": 49
     },
     {
         "text": "ask",
-        "pronunication": "ask",
+        "pronunciation": "ask",
         "priority": 50
     },
     {
         "text": "day",
-        "pronunication": "day",
+        "pronunciation": "day",
         "priority": 51
     },
     {
         "text": "time",
-        "pronunication": "time",
+        "pronunciation": "time",
         "priority": 52
     },
     {
         "text": "person",
-        "pronunication": "person",
+        "pronunciation": "person",
         "priority": 53
     },
     {
         "text": "work",
-        "pronunication": "work",
+        "pronunciation": "work",
         "priority": 54
     },
     {
         "text": "number",
-        "pronunication": "number",
+        "pronunciation": "number",
         "priority": 55
     },
     {
         "text": "book",
-        "pronunication": "book",
+        "pronunciation": "book",
         "priority": 56
     },
     {
         "text": "country",
-        "pronunication": "country",
+        "pronunciation": "country",
         "priority": 57
     },
     {
         "text": "group",
-        "pronunication": "group",
+        "pronunciation": "group",
         "priority": 58
     },
     {
         "text": "home",
-        "pronunication": "home",
+        "pronunciation": "home",
         "priority": 59
     },
     {
         "text": "family",
-        "pronunication": "family",
+        "pronunciation": "family",
         "priority": 60
     },
     {
         "text": "life",
-        "pronunication": "life",
+        "pronunciation": "life",
         "priority": 61
     },
     {
         "text": "night",
-        "pronunication": "night",
+        "pronunciation": "night",
         "priority": 62
     },
     {
         "text": "question",
-        "pronunication": "question",
+        "pronunciation": "question",
         "priority": 63
     },
     {
         "text": "child",
-        "pronunication": "child",
+        "pronunciation": "child",
         "priority": 64
     },
     {
         "text": "name",
-        "pronunication": "name",
+        "pronunciation": "name",
         "priority": 65
     },
     {
         "text": "hand",
-        "pronunication": "hand",
+        "pronunciation": "hand",
         "priority": 66
     },
     {
         "text": "week",
-        "pronunication": "week",
+        "pronunciation": "week",
         "priority": 67
     },
     {
         "text": "year",
-        "pronunication": "year",
+        "pronunciation": "year",
         "priority": 68
     },
     {
         "text": "problem",
-        "pronunication": "problem",
+        "pronunciation": "problem",
         "priority": 69
     },
     {
         "text": "man",
-        "pronunication": "man",
+        "pronunciation": "man",
         "priority": 70
     },
     {
         "text": "woman",
-        "pronunication": "woman",
+        "pronunciation": "woman",
         "priority": 71
     },
     {
         "text": "company",
-        "pronunication": "company",
+        "pronunciation": "company",
         "priority": 72
     },
     {
         "text": "thing",
-        "pronunication": "thing",
+        "pronunciation": "thing",
         "priority": 73
     },
     {
         "text": "world",
-        "pronunication": "world",
+        "pronunciation": "world",
         "priority": 74
     },
     {
         "text": "money",
-        "pronunication": "money",
+        "pronunciation": "money",
         "priority": 75
     },
     {
         "text": "word",
-        "pronunication": "word",
+        "pronunciation": "word",
         "priority": 76
     },
     {
         "text": "age",
-        "pronunication": "age",
+        "pronunciation": "age",
         "priority": 77
     },
     {
         "text": "room",
-        "pronunication": "room",
+        "pronunciation": "room",
         "priority": 78
     },
     {
         "text": "water",
-        "pronunication": "water",
+        "pronunciation": "water",
         "priority": 79
     },
     {
         "text": "school",
-        "pronunication": "school",
+        "pronunciation": "school",
         "priority": 80
     },
     {
         "text": "city",
-        "pronunication": "city",
+        "pronunciation": "city",
         "priority": 81
     },
     {
         "text": "good",
-        "pronunication": "good",
+        "pronunciation": "good",
         "priority": 82
     },
     {
         "text": "small",
-        "pronunication": "small",
+        "pronunciation": "small",
         "priority": 83
     },
     {
         "text": "other",
-        "pronunication": "other",
+        "pronunciation": "other",
         "priority": 84
     },
     {
         "text": "bad",
-        "pronunication": "bad",
+        "pronunciation": "bad",
         "priority": 85
     },
     {
         "text": "big",
-        "pronunication": "big",
+        "pronunciation": "big",
         "priority": 86
     },
     {
         "text": "new",
-        "pronunication": "new",
+        "pronunciation": "new",
         "priority": 87
     },
     {
         "text": "old",
-        "pronunication": "old",
+        "pronunciation": "old",
         "priority": 88
     },
     {
         "text": "different",
-        "pronunication": "different",
+        "pronunciation": "different",
         "priority": 89
     },
     {
         "text": "young",
-        "pronunication": "young",
+        "pronunciation": "young",
         "priority": 90
     },
     {
         "text": "long",
-        "pronunication": "long",
+        "pronunciation": "long",
         "priority": 91
     },
     {
         "text": "short",
-        "pronunication": "short",
+        "pronunciation": "short",
         "priority": 92
     },
     {
         "text": "same",
-        "pronunication": "same",
+        "pronunciation": "same",
         "priority": 93
     },
     {
         "text": "left",
-        "pronunication": "left",
+        "pronunciation": "left",
         "priority": 94
     },
     {
         "text": "right",
-        "pronunication": "right",
+        "pronunciation": "right",
         "priority": 95
     },
     {
         "text": "next",
-        "pronunication": "next",
+        "pronunciation": "next",
         "priority": 96
     },
     {
         "text": "first",
-        "pronunication": "first",
+        "pronunciation": "first",
         "priority": 97
     },
     {
         "text": "last",
-        "pronunication": "last",
+        "pronunciation": "last",
         "priority": 98
     },
     {
         "text": "important",
-        "pronunication": "important",
+        "pronunciation": "important",
         "priority": 99
     }
 ]
