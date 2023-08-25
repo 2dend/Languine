@@ -1,0 +1,502 @@
+[
+    {
+        "text": "",
+        "pronunication": "the",
+        "priority": 0
+    },
+    {
+        "text": "\u090f, \u090f",
+        "pronunication": "a, an",
+        "priority": 1
+    },
+    {
+        "text": "\u0915\u094b",
+        "pronunication": "to",
+        "priority": 2
+    },
+    {
+        "text": "\u0914\u0930",
+        "pronunication": "and",
+        "priority": 3
+    },
+    {
+        "text": "\u0915\u093e",
+        "pronunication": "of",
+        "priority": 4
+    },
+    {
+        "text": "\u092e\u0947\u0902",
+        "pronunication": "in",
+        "priority": 5
+    },
+    {
+        "text": "\u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902",
+        "pronunication": "about",
+        "priority": 6
+    },
+    {
+        "text": "\u092c\u093e\u0926",
+        "pronunication": "after",
+        "priority": 7
+    },
+    {
+        "text": "\u092a\u0939\u0932\u0947",
+        "pronunication": "before",
+        "priority": 8
+    },
+    {
+        "text": "\u092e\u0948\u0902",
+        "pronunication": "I",
+        "priority": 9
+    },
+    {
+        "text": "\u0906\u092a",
+        "pronunication": "you",
+        "priority": 10
+    },
+    {
+        "text": "\u0935\u0939",
+        "pronunication": "he",
+        "priority": 11
+    },
+    {
+        "text": "\u0935\u0939",
+        "pronunication": "she",
+        "priority": 12
+    },
+    {
+        "text": "\u092f\u0939",
+        "pronunication": "it",
+        "priority": 13
+    },
+    {
+        "text": "\u0939\u092e",
+        "pronunication": "we",
+        "priority": 14
+    },
+    {
+        "text": "\u0935\u0947",
+        "pronunication": "they",
+        "priority": 15
+    },
+    {
+        "text": "\u0935\u0939",
+        "pronunication": "that",
+        "priority": 16
+    },
+    {
+        "text": "\u0915\u0947 \u0932\u093f\u090f",
+        "pronunication": "for",
+        "priority": 17
+    },
+    {
+        "text": "\u092a\u0930",
+        "pronunication": "on",
+        "priority": 18
+    },
+    {
+        "text": "\u0938\u093e\u0925",
+        "pronunication": "with",
+        "priority": 19
+    },
+    {
+        "text": "\u0932\u0947\u0915\u093f\u0928",
+        "pronunication": "but",
+        "priority": 20
+    },
+    {
+        "text": "\u0938\u0947",
+        "pronunication": "from",
+        "priority": 21
+    },
+    {
+        "text": "\u092f\u093e",
+        "pronunication": "or",
+        "priority": 22
+    },
+    {
+        "text": "\u0915\u094d\u092f\u093e",
+        "pronunication": "what",
+        "priority": 23
+    },
+    {
+        "text": "\u0915\u0948\u0938\u0947",
+        "pronunication": "how",
+        "priority": 24
+    },
+    {
+        "text": "\u0915\u094c\u0928",
+        "pronunication": "who",
+        "priority": 25
+    },
+    {
+        "text": "\u0915\u092c",
+        "pronunication": "when",
+        "priority": 26
+    },
+    {
+        "text": "\u0939\u093e\u0901",
+        "pronunication": "yes",
+        "priority": 27
+    },
+    {
+        "text": "\u0928\u0939\u0940\u0902",
+        "pronunication": "no",
+        "priority": 28
+    },
+    {
+        "text": "\u0905\u092c",
+        "pronunication": "now",
+        "priority": 29
+    },
+    {
+        "text": "\u0915\u0932",
+        "pronunication": "tomorrow",
+        "priority": 30
+    },
+    {
+        "text": "\u0906\u091c",
+        "pronunication": "today",
+        "priority": 31
+    },
+    {
+        "text": "\u0915\u0932",
+        "pronunication": "yesterday",
+        "priority": 32
+    },
+    {
+        "text": "\u0915\u0947\u0935\u0932",
+        "pronunication": "only",
+        "priority": 33
+    },
+    {
+        "text": "\u0915\u094d\u092f\u094b\u0902\u0915\u093f",
+        "pronunication": "because",
+        "priority": 34
+    },
+    {
+        "text": "\u0939\u094b\u0928\u093e",
+        "pronunication": "be",
+        "priority": 35
+    },
+    {
+        "text": "\u092a\u093e\u0938 \u0939\u094b\u0928\u093e",
+        "pronunication": "have",
+        "priority": 36
+    },
+    {
+        "text": "\u0915\u0930\u0928\u093e",
+        "pronunication": "do",
+        "priority": 37
+    },
+    {
+        "text": "\u092a\u093e\u0928\u093e",
+        "pronunication": "get",
+        "priority": 38
+    },
+    {
+        "text": "\u092c\u0928\u093e\u0928\u093e",
+        "pronunication": "make",
+        "priority": 39
+    },
+    {
+        "text": "\u091c\u093e\u0928\u093e",
+        "pronunication": "go",
+        "priority": 40
+    },
+    {
+        "text": "\u0915\u0939\u0928\u093e",
+        "pronunication": "say",
+        "priority": 41
+    },
+    {
+        "text": "\u0926\u0947\u0916\u0928\u093e",
+        "pronunication": "see",
+        "priority": 42
+    },
+    {
+        "text": "\u091c\u093e\u0928\u0928\u093e",
+        "pronunication": "know",
+        "priority": 43
+    },
+    {
+        "text": "\u0938\u094b\u091a\u0928\u093e",
+        "pronunication": "think",
+        "priority": 44
+    },
+    {
+        "text": "\u0926\u0947\u0916\u0928\u093e",
+        "pronunication": "look",
+        "priority": 45
+    },
+    {
+        "text": "\u091a\u093e\u0939\u0928\u093e",
+        "pronunication": "want",
+        "priority": 46
+    },
+    {
+        "text": "\u092a\u0938\u0902\u0926",
+        "pronunication": "like",
+        "priority": 47
+    },
+    {
+        "text": "\u0932\u0947\u0928\u093e",
+        "pronunication": "take",
+        "priority": 48
+    },
+    {
+        "text": "\u0926\u0947\u0928\u093e",
+        "pronunication": "give",
+        "priority": 49
+    },
+    {
+        "text": "\u092a\u0942\u091b\u0928\u093e",
+        "pronunication": "ask",
+        "priority": 50
+    },
+    {
+        "text": "\u0926\u093f\u0928",
+        "pronunication": "day",
+        "priority": 51
+    },
+    {
+        "text": "\u0938\u092e\u092f",
+        "pronunication": "time",
+        "priority": 52
+    },
+    {
+        "text": "\u0935\u094d\u092f\u0915\u094d\u0924\u093f",
+        "pronunication": "person",
+        "priority": 53
+    },
+    {
+        "text": "\u0915\u093e\u092e",
+        "pronunication": "work",
+        "priority": 54
+    },
+    {
+        "text": "\u0938\u0902\u0916\u094d\u092f\u093e",
+        "pronunication": "number",
+        "priority": 55
+    },
+    {
+        "text": "\u0915\u093f\u0924\u093e\u092c",
+        "pronunication": "book",
+        "priority": 56
+    },
+    {
+        "text": "\u0926\u0947\u0936",
+        "pronunication": "country",
+        "priority": 57
+    },
+    {
+        "text": "\u0938\u092e\u0942\u0939",
+        "pronunication": "group",
+        "priority": 58
+    },
+    {
+        "text": "\u0918\u0930",
+        "pronunication": "home",
+        "priority": 59
+    },
+    {
+        "text": "\u092a\u0930\u093f\u0935\u093e\u0930",
+        "pronunication": "family",
+        "priority": 60
+    },
+    {
+        "text": "\u091c\u093c\u093f\u0902\u0926\u0917\u0940",
+        "pronunication": "life",
+        "priority": 61
+    },
+    {
+        "text": "\u0930\u093e\u0924",
+        "pronunication": "night",
+        "priority": 62
+    },
+    {
+        "text": "\u0938\u0935\u093e\u0932",
+        "pronunication": "question",
+        "priority": 63
+    },
+    {
+        "text": "\u092c\u091a\u094d\u091a\u093e",
+        "pronunication": "child",
+        "priority": 64
+    },
+    {
+        "text": "\u0928\u093e\u092e",
+        "pronunication": "name",
+        "priority": 65
+    },
+    {
+        "text": "\u0939\u093e\u0925",
+        "pronunication": "hand",
+        "priority": 66
+    },
+    {
+        "text": "\u0938\u092a\u094d\u0924\u093e\u0939",
+        "pronunication": "week",
+        "priority": 67
+    },
+    {
+        "text": "\u0935\u0930\u094d\u0937",
+        "pronunication": "year",
+        "priority": 68
+    },
+    {
+        "text": "\u0938\u0902\u0915\u091f",
+        "pronunication": "problem",
+        "priority": 69
+    },
+    {
+        "text": "\u0906\u0926\u092e\u0940",
+        "pronunication": "man",
+        "priority": 70
+    },
+    {
+        "text": "\u092e\u0939\u093f\u0932\u093e",
+        "pronunication": "woman",
+        "priority": 71
+    },
+    {
+        "text": "\u0915\u0902\u092a\u0928\u0940",
+        "pronunication": "company",
+        "priority": 72
+    },
+    {
+        "text": "\u091a\u0940\u091c\u093c",
+        "pronunication": "thing",
+        "priority": 73
+    },
+    {
+        "text": "\u0926\u0941\u0928\u093f\u092f\u093e",
+        "pronunication": "world",
+        "priority": 74
+    },
+    {
+        "text": "\u0927\u0928",
+        "pronunication": "money",
+        "priority": 75
+    },
+    {
+        "text": "\u0936\u092c\u094d\u0926",
+        "pronunication": "word",
+        "priority": 76
+    },
+    {
+        "text": "\u0906\u092f\u0941",
+        "pronunication": "age",
+        "priority": 77
+    },
+    {
+        "text": "\u0915\u092e\u0930\u093e",
+        "pronunication": "room",
+        "priority": 78
+    },
+    {
+        "text": "\u092a\u093e\u0928\u0940",
+        "pronunication": "water",
+        "priority": 79
+    },
+    {
+        "text": "\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+        "pronunication": "school",
+        "priority": 80
+    },
+    {
+        "text": "\u0936\u0939\u0930",
+        "pronunication": "city",
+        "priority": 81
+    },
+    {
+        "text": "\u0905\u091a\u094d\u091b\u093e",
+        "pronunication": "good",
+        "priority": 82
+    },
+    {
+        "text": "\u091b\u094b\u091f\u093e",
+        "pronunication": "small",
+        "priority": 83
+    },
+    {
+        "text": "\u0905\u0928\u094d\u092f",
+        "pronunication": "other",
+        "priority": 84
+    },
+    {
+        "text": "\u0916\u0930\u093e\u092c",
+        "pronunication": "bad",
+        "priority": 85
+    },
+    {
+        "text": "\u092c\u0921\u093c\u093e",
+        "pronunication": "big",
+        "priority": 86
+    },
+    {
+        "text": "\u0928\u092f\u093e",
+        "pronunication": "new",
+        "priority": 87
+    },
+    {
+        "text": "\u092a\u0941\u0930\u093e\u0928\u093e",
+        "pronunication": "old",
+        "priority": 88
+    },
+    {
+        "text": "\u0905\u0932\u0917",
+        "pronunication": "different",
+        "priority": 89
+    },
+    {
+        "text": "\u092f\u0941\u0935\u093e",
+        "pronunication": "young",
+        "priority": 90
+    },
+    {
+        "text": "\u0932\u0902\u092c\u093e",
+        "pronunication": "long",
+        "priority": 91
+    },
+    {
+        "text": "\u091b\u094b\u091f\u093e",
+        "pronunication": "short",
+        "priority": 92
+    },
+    {
+        "text": "\u0935\u0939\u0940",
+        "pronunication": "same",
+        "priority": 93
+    },
+    {
+        "text": "\u092c\u093e\u090f\u0902",
+        "pronunication": "left",
+        "priority": 94
+    },
+    {
+        "text": "\u0938\u0939\u0940",
+        "pronunication": "right",
+        "priority": 95
+    },
+    {
+        "text": "\u0905\u0917\u0932\u093e",
+        "pronunication": "next",
+        "priority": 96
+    },
+    {
+        "text": "\u092a\u0939\u0932\u093e",
+        "pronunication": "first",
+        "priority": 97
+    },
+    {
+        "text": "\u0905\u0902\u0924\u093f\u092e",
+        "pronunication": "last",
+        "priority": 98
+    },
+    {
+        "text": "\u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923",
+        "pronunication": "important",
+        "priority": 99
+    }
+]

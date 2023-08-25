@@ -1,0 +1,502 @@
+[
+    {
+        "text": "el",
+        "pronunication": "the",
+        "priority": 0
+    },
+    {
+        "text": "un, un",
+        "pronunication": "a, an",
+        "priority": 1
+    },
+    {
+        "text": "a",
+        "pronunication": "to",
+        "priority": 2
+    },
+    {
+        "text": "y",
+        "pronunication": "and",
+        "priority": 3
+    },
+    {
+        "text": "de",
+        "pronunication": "of",
+        "priority": 4
+    },
+    {
+        "text": "en",
+        "pronunication": "in",
+        "priority": 5
+    },
+    {
+        "text": "acerca de",
+        "pronunication": "about",
+        "priority": 6
+    },
+    {
+        "text": "despu\u00e9s",
+        "pronunication": "after",
+        "priority": 7
+    },
+    {
+        "text": "antes",
+        "pronunication": "before",
+        "priority": 8
+    },
+    {
+        "text": "I",
+        "pronunication": "I",
+        "priority": 9
+    },
+    {
+        "text": "t\u00fa",
+        "pronunication": "you",
+        "priority": 10
+    },
+    {
+        "text": "\u00e9l",
+        "pronunication": "he",
+        "priority": 11
+    },
+    {
+        "text": "ella",
+        "pronunication": "she",
+        "priority": 12
+    },
+    {
+        "text": "\u00e9l",
+        "pronunication": "it",
+        "priority": 13
+    },
+    {
+        "text": "nosotros",
+        "pronunication": "we",
+        "priority": 14
+    },
+    {
+        "text": "ellos",
+        "pronunication": "they",
+        "priority": 15
+    },
+    {
+        "text": "eso",
+        "pronunication": "that",
+        "priority": 16
+    },
+    {
+        "text": "para",
+        "pronunication": "for",
+        "priority": 17
+    },
+    {
+        "text": "en",
+        "pronunication": "on",
+        "priority": 18
+    },
+    {
+        "text": "con",
+        "pronunication": "with",
+        "priority": 19
+    },
+    {
+        "text": "pero",
+        "pronunication": "but",
+        "priority": 20
+    },
+    {
+        "text": "de",
+        "pronunication": "from",
+        "priority": 21
+    },
+    {
+        "text": "o",
+        "pronunication": "or",
+        "priority": 22
+    },
+    {
+        "text": "qu\u00e9",
+        "pronunication": "what",
+        "priority": 23
+    },
+    {
+        "text": "c\u00f3mo",
+        "pronunication": "how",
+        "priority": 24
+    },
+    {
+        "text": "OMS",
+        "pronunication": "who",
+        "priority": 25
+    },
+    {
+        "text": "cuando",
+        "pronunication": "when",
+        "priority": 26
+    },
+    {
+        "text": "S\u00ed",
+        "pronunication": "yes",
+        "priority": 27
+    },
+    {
+        "text": "No",
+        "pronunication": "no",
+        "priority": 28
+    },
+    {
+        "text": "ahora",
+        "pronunication": "now",
+        "priority": 29
+    },
+    {
+        "text": "ma\u00f1ana",
+        "pronunication": "tomorrow",
+        "priority": 30
+    },
+    {
+        "text": "hoy",
+        "pronunication": "today",
+        "priority": 31
+    },
+    {
+        "text": "ayer",
+        "pronunication": "yesterday",
+        "priority": 32
+    },
+    {
+        "text": "solo",
+        "pronunication": "only",
+        "priority": 33
+    },
+    {
+        "text": "porque",
+        "pronunication": "because",
+        "priority": 34
+    },
+    {
+        "text": "ser",
+        "pronunication": "be",
+        "priority": 35
+    },
+    {
+        "text": "tener",
+        "pronunication": "have",
+        "priority": 36
+    },
+    {
+        "text": "hacer",
+        "pronunication": "do",
+        "priority": 37
+    },
+    {
+        "text": "conseguir",
+        "pronunication": "get",
+        "priority": 38
+    },
+    {
+        "text": "hacer",
+        "pronunication": "make",
+        "priority": 39
+    },
+    {
+        "text": "ir",
+        "pronunication": "go",
+        "priority": 40
+    },
+    {
+        "text": "decir",
+        "pronunication": "say",
+        "priority": 41
+    },
+    {
+        "text": "ver",
+        "pronunication": "see",
+        "priority": 42
+    },
+    {
+        "text": "saber",
+        "pronunication": "know",
+        "priority": 43
+    },
+    {
+        "text": "pensar",
+        "pronunication": "think",
+        "priority": 44
+    },
+    {
+        "text": "mirar",
+        "pronunication": "look",
+        "priority": 45
+    },
+    {
+        "text": "desear",
+        "pronunication": "want",
+        "priority": 46
+    },
+    {
+        "text": "como",
+        "pronunication": "like",
+        "priority": 47
+    },
+    {
+        "text": "llevar",
+        "pronunication": "take",
+        "priority": 48
+    },
+    {
+        "text": "dar",
+        "pronunication": "give",
+        "priority": 49
+    },
+    {
+        "text": "preguntar",
+        "pronunication": "ask",
+        "priority": 50
+    },
+    {
+        "text": "d\u00eda",
+        "pronunication": "day",
+        "priority": 51
+    },
+    {
+        "text": "tiempo",
+        "pronunication": "time",
+        "priority": 52
+    },
+    {
+        "text": "persona",
+        "pronunication": "person",
+        "priority": 53
+    },
+    {
+        "text": "trabajar",
+        "pronunication": "work",
+        "priority": 54
+    },
+    {
+        "text": "n\u00famero",
+        "pronunication": "number",
+        "priority": 55
+    },
+    {
+        "text": "libro",
+        "pronunication": "book",
+        "priority": 56
+    },
+    {
+        "text": "pa\u00eds",
+        "pronunication": "country",
+        "priority": 57
+    },
+    {
+        "text": "grupo",
+        "pronunication": "group",
+        "priority": 58
+    },
+    {
+        "text": "hogar",
+        "pronunication": "home",
+        "priority": 59
+    },
+    {
+        "text": "familia",
+        "pronunication": "family",
+        "priority": 60
+    },
+    {
+        "text": "vida",
+        "pronunication": "life",
+        "priority": 61
+    },
+    {
+        "text": "noche",
+        "pronunication": "night",
+        "priority": 62
+    },
+    {
+        "text": "pregunta",
+        "pronunication": "question",
+        "priority": 63
+    },
+    {
+        "text": "ni\u00f1o",
+        "pronunication": "child",
+        "priority": 64
+    },
+    {
+        "text": "nombre",
+        "pronunication": "name",
+        "priority": 65
+    },
+    {
+        "text": "mano",
+        "pronunication": "hand",
+        "priority": 66
+    },
+    {
+        "text": "semana",
+        "pronunication": "week",
+        "priority": 67
+    },
+    {
+        "text": "a\u00f1o",
+        "pronunication": "year",
+        "priority": 68
+    },
+    {
+        "text": "problema",
+        "pronunication": "problem",
+        "priority": 69
+    },
+    {
+        "text": "hombre",
+        "pronunication": "man",
+        "priority": 70
+    },
+    {
+        "text": "mujer",
+        "pronunication": "woman",
+        "priority": 71
+    },
+    {
+        "text": "compa\u00f1\u00eda",
+        "pronunication": "company",
+        "priority": 72
+    },
+    {
+        "text": "cosa",
+        "pronunication": "thing",
+        "priority": 73
+    },
+    {
+        "text": "mundo",
+        "pronunication": "world",
+        "priority": 74
+    },
+    {
+        "text": "dinero",
+        "pronunication": "money",
+        "priority": 75
+    },
+    {
+        "text": "palabra",
+        "pronunication": "word",
+        "priority": 76
+    },
+    {
+        "text": "edad",
+        "pronunication": "age",
+        "priority": 77
+    },
+    {
+        "text": "habitaci\u00f3n",
+        "pronunication": "room",
+        "priority": 78
+    },
+    {
+        "text": "agua",
+        "pronunication": "water",
+        "priority": 79
+    },
+    {
+        "text": "escuela",
+        "pronunication": "school",
+        "priority": 80
+    },
+    {
+        "text": "ciudad",
+        "pronunication": "city",
+        "priority": 81
+    },
+    {
+        "text": "bien",
+        "pronunication": "good",
+        "priority": 82
+    },
+    {
+        "text": "peque\u00f1o",
+        "pronunication": "small",
+        "priority": 83
+    },
+    {
+        "text": "otro",
+        "pronunication": "other",
+        "priority": 84
+    },
+    {
+        "text": "malo",
+        "pronunication": "bad",
+        "priority": 85
+    },
+    {
+        "text": "grande",
+        "pronunication": "big",
+        "priority": 86
+    },
+    {
+        "text": "nuevo",
+        "pronunication": "new",
+        "priority": 87
+    },
+    {
+        "text": "viejo",
+        "pronunication": "old",
+        "priority": 88
+    },
+    {
+        "text": "diferente",
+        "pronunication": "different",
+        "priority": 89
+    },
+    {
+        "text": "joven",
+        "pronunication": "young",
+        "priority": 90
+    },
+    {
+        "text": "largo",
+        "pronunication": "long",
+        "priority": 91
+    },
+    {
+        "text": "corto",
+        "pronunication": "short",
+        "priority": 92
+    },
+    {
+        "text": "mismo",
+        "pronunication": "same",
+        "priority": 93
+    },
+    {
+        "text": "izquierda",
+        "pronunication": "left",
+        "priority": 94
+    },
+    {
+        "text": "bien",
+        "pronunication": "right",
+        "priority": 95
+    },
+    {
+        "text": "pr\u00f3ximo",
+        "pronunication": "next",
+        "priority": 96
+    },
+    {
+        "text": "primero",
+        "pronunication": "first",
+        "priority": 97
+    },
+    {
+        "text": "\u00faltimo",
+        "pronunication": "last",
+        "priority": 98
+    },
+    {
+        "text": "importante",
+        "pronunication": "important",
+        "priority": 99
+    }
+]

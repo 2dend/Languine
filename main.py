@@ -3,7 +3,6 @@ from deep_translator import GoogleTranslator
 from random import randint
 import streamlit as st
 import json
-from time import sleep
 
 
 def create_lang(meanings, lang):
@@ -36,7 +35,14 @@ def build_db():
                 "english",
                 "hebrew",
                 "italian",
-                "french"
+                "french",
+                "hindi",
+                "spanish",
+                "arabic",
+                "russian",
+                "japanese",
+                "thai",
+                "zh-CN"
             ]
 
     with open("languages.json", 'w') as langs_json:
@@ -51,18 +57,24 @@ def choose_random_word():
         choise = randint(0, len(meanings) - 1)
         return choise, meanings[choise]
 
-def choose_random_lang():
+def get_available_languages():
     with open("languages.json") as languages:
         languages = json.loads(languages.read())
-        choise = randint(0, len(languages) - 1)
-        return languages[choise]
+    return languages
+
+def choose_random_language(languages):
+    choise = randint(0, len(languages) - 1)
+    return languages[choise]
 
 def get_word(lang, meaning_id):
     with open(f"{lang}.json") as lang:
         words = json.loads(lang.read())
         return words[meaning_id]
 
-def generate_options(meaning_id, original_language, num_of_options=3):
+def generate_options(   meaning_id,
+                        languages,
+                        original_language,
+                        num_of_options=3):
     # TODO: make it harder
     options = []
 
@@ -71,9 +83,9 @@ def generate_options(meaning_id, original_language, num_of_options=3):
         while meaning_id == _meaning_id:
             _meaning_id, meaning_eng = choose_random_word()
 
-        language = choose_random_lang()
+        language = choose_random_language(languages)
         while language == original_language:
-            language = choose_random_lang()
+            language = choose_random_language(languages)
         word = get_word(language, _meaning_id)
         option = f"{word['text']} ({language})"
         if option in options: continue
@@ -90,9 +102,14 @@ def shuffle_options(options, answer):
     return options, correct_index
 
 def game():
+    selected_languages = st.multiselect("what languages to include?",
+                                get_available_languages(),
+                                get_available_languages())
+
     if "answer" in st.session_state:
         answer = st.session_state['answer']
         question = st.session_state['question']
+        question_meaning = st.session_state['question_meaning']
         options = st.session_state['options']
         correct_index = st.session_state['correct_index']
         selections = [
@@ -115,28 +132,30 @@ def game():
             st.write(f"Wrong!")
             st.write(f"{chosen}")
 
-        st.write(f"{question} == {answer}")
+        st.write(f"{question} == {answer} ({get_word('english', question_meaning)['text']})")
 
     meaning_id, meaning_eng = choose_random_word()
 
-    question_language = choose_random_lang()
+    question_language = choose_random_language(selected_languages)
 
     question_word = get_word(question_language, meaning_id)
 
     question = f"{question_word['text']} ({question_language})"
-    st.write(question)
+    # st.write(question)
+    st.markdown(f"# {question}")
 
-    answer_language = choose_random_lang()
+    answer_language = choose_random_language(selected_languages)
     while answer_language == question_language:
-        answer_language = choose_random_lang()
+        answer_language = choose_random_language(selected_languages)
 
     answer_word = get_word(answer_language, meaning_id)
     answer = f"{answer_word['text']} ({answer_language})"
 
-    options = generate_options(meaning_id, question_language)
+    options = generate_options(meaning_id, selected_languages, question_language)
     options, correct_index = shuffle_options(options, answer)
 
     st.session_state['question'] = question
+    st.session_state['question_meaning'] = meaning_id
     st.session_state['answer'] = answer
     st.session_state['options'] = options
     st.session_state['correct_index'] = correct_index
