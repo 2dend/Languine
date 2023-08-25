@@ -2,6 +2,7 @@
 from deep_translator import GoogleTranslator
 from random import randint
 import streamlit as st
+import hashlib
 import json
 import sys
 
@@ -175,9 +176,38 @@ def game():
     for i, option in enumerate(options):
         st.button(option, key=f"option_{i}")
 
+from requests import get
+def add_pronunciations(language):
+    with open(f"languages/{language}.json") as lang:
+        words = json.loads(lang.read())
+        for word in words:
+            word = word['text']
+            print(word)
+
+            try:
+                url = f"https://apifree.forvo.com/key/94d8d2eecc51cf9285f73508c9dce1a7/format/json/action/word-pronunciations/word/{word}/language/{language}"
+                r = get(url)
+                if r.status_code != 200: 
+                    print(r.status_code)
+                    print(r.text)
+                    continue
+                r = json.loads(r.text)
+                mp3_path = r['items'][0]['pathmp3']
+                r = get(mp3_path, allow_redirects=True)
+
+                file_name = str(hashlib.sha256(word.encode('utf-8')).hexdigest())
+                print(file_name)
+                with open(f"languages/{language}/{file_name}.mp3", 'wb') as mp3:
+                    mp3.write(r.content)
+            except Exception as e:
+                print(f"[!] exception: {e}")
+                continue
+            # return
+
 if __name__=="__main__":
     game()
 
+    # add_pronunciations(sys.argv[1])
     # word = get_word(sys.argv[1],int(sys.argv[2]))
     # print(f"{word['pronunciation']} => {word['text']}")
 
