@@ -2,10 +2,40 @@
 from deep_translator import GoogleTranslator
 from random import randint
 import streamlit as st
+import base64
 import hashlib
 import json
 import sys
+import os
 
+
+from requests import get
+def add_pronunciations(language):
+    with open(f"languages/{language}.json") as lang:
+        words = json.loads(lang.read())
+        for word in words:
+            word = word['text']
+            print(word)
+
+            try:
+                url = f"https://apifree.forvo.com/key/94d8d2eecc51cf9285f73508c9dce1a7/format/json/action/word-pronunciations/word/{word}/language/{language}"
+                r = get(url)
+                if r.status_code != 200: 
+                    print(r.status_code)
+                    print(r.text)
+                    continue
+                r = json.loads(r.text)
+                mp3_path = r['items'][0]['pathmp3']
+                r = get(mp3_path, allow_redirects=True)
+
+                file_name = str(hashlib.sha256(word.encode('utf-8')).hexdigest())
+                print(file_name)
+                with open(f"languages/{language}/{file_name}.mp3", 'wb') as mp3:
+                    mp3.write(r.content)
+            except Exception as e:
+                print(f"[!] exception: {e}")
+                continue
+            # return
 
 def create_lang(meanings, lang):
     with open(f'languages/{lang}.json', 'w') as lang_json:
@@ -71,6 +101,14 @@ def get_word(lang, meaning_id):
     with open(f"languages/{lang}.json") as lang:
         words = json.loads(lang.read())
         return words[meaning_id]
+
+def get_audio(word, language):
+    word_hash = str(hashlib.sha256(word['text'].encode('utf-8')).hexdigest())
+    audio_path = f"languages/{language}/{word_hash}.mp3"
+
+    if not os.path.isfile(audio_path): return None
+
+    with open(audio_path, 'rb') as audio: return audio.read()
 
 def word_to_string(word, language):
     return f"{word['text']} [{word['pronunciation']}] ({language})"
@@ -154,6 +192,12 @@ def game():
     # question = f"{question_word['text']} ({question_language})"
     question = word_to_string(question_word, question_language)
     # st.write(question)
+    audio_bytes = get_audio(question_word, question_language)
+    if audio_bytes:
+        encoded_bytes = base64.b64encode(audio_bytes).decode('utf-8')
+        audio_tag = f'<audio controls src="data:audio/wav;base64,{encoded_bytes}"></audio>'
+        st.markdown(audio_tag, unsafe_allow_html=True)
+
     st.markdown(f"# {question}")
 
     answer_language = choose_random_language(selected_languages)
@@ -176,33 +220,6 @@ def game():
     for i, option in enumerate(options):
         st.button(option, key=f"option_{i}")
 
-from requests import get
-def add_pronunciations(language):
-    with open(f"languages/{language}.json") as lang:
-        words = json.loads(lang.read())
-        for word in words:
-            word = word['text']
-            print(word)
-
-            try:
-                url = f"https://apifree.forvo.com/key/94d8d2eecc51cf9285f73508c9dce1a7/format/json/action/word-pronunciations/word/{word}/language/{language}"
-                r = get(url)
-                if r.status_code != 200: 
-                    print(r.status_code)
-                    print(r.text)
-                    continue
-                r = json.loads(r.text)
-                mp3_path = r['items'][0]['pathmp3']
-                r = get(mp3_path, allow_redirects=True)
-
-                file_name = str(hashlib.sha256(word.encode('utf-8')).hexdigest())
-                print(file_name)
-                with open(f"languages/{language}/{file_name}.mp3", 'wb') as mp3:
-                    mp3.write(r.content)
-            except Exception as e:
-                print(f"[!] exception: {e}")
-                continue
-            # return
 
 if __name__=="__main__":
     game()
