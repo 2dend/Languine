@@ -1,59 +1,148 @@
 #!/usr/bin/python3
+from deep_translator import GoogleTranslator
+from random import randint
+import streamlit as st
 import json
+from time import sleep
 
 
-def create_english(meanings):
-    with open('english.json', 'w') as english_json:
-        english = []
-        counter = 0
-        for m in meanings:
-            english.append({
-                "text": m,
-                "pronunication": m,
-                "priority": counter
-                })
-
-            counter += 1
-        english_json.write(json.dumps(english, indent=4))
-
-from googletrans import Translator
-def create_hebrew(meanings):
-    with open('hebrew.json', 'w') as hebrew_json:
-        hebrew = []
+def create_lang(meanings, lang):
+    with open(f'{lang}.json', 'w') as lang_json:
+        lang_dict = []
         counter = 0
 
-        translator = Translator()
+        try:
+            for m in meanings:
+                # TODO: translate + pronunciation
+                translated = GoogleTranslator(source='auto', target=lang).translate(m)
+                print("{} > {}".format(m, translated))
 
-        for m in meanings:
-            # TODO: translate + pronunciation
-            result = translator.translate(m, dest='he')
-            print(result)
+                lang_dict.append({
+                    "text": translated,
+                    "pronunication": m,
+                    "priority": counter
+                    })
 
-
-            # hebrew.append({
-                # "text": m,
-                # "pronunication": m,
-                # "priority": counter
-                # })
-
-            counter += 1
-        hebrew_json.write(json.dumps(hebrew, indent=4))
+                counter += 1
+            lang_json.write(json.dumps(lang_dict, indent=4))
+        except Exception as e:
+            print(f"[!] {e}")
 
 def build_db():
     with open('meanings.json') as f:
         meanings = json.load(f)
 
-    # create_english(meanings)
-    create_hebrew(meanings)
+    langs = [
+                "english",
+                "hebrew",
+                "italian",
+                "french"
+            ]
 
-def main():
-    # build_db()
+    with open("languages.json", 'w') as langs_json:
+        langs_json.write(json.dumps(langs, indent=4))
 
-    with open('hebrew.json') as f:
-        hebrew = json.load(f)
+    for lang in langs:
+        create_lang(meanings, lang)
 
-    print(hebrew[0])
+def choose_random_word():
+    with open("meanings.json") as meanings:
+        meanings = json.loads(meanings.read())
+        choise = randint(0, len(meanings) - 1)
+        return choise, meanings[choise]
 
+def choose_random_lang():
+    with open("languages.json") as languages:
+        languages = json.loads(languages.read())
+        choise = randint(0, len(languages) - 1)
+        return languages[choise]
 
-if __name__ == '__main__':
-    main()
+def get_word(lang, meaning_id):
+    with open(f"{lang}.json") as lang:
+        words = json.loads(lang.read())
+        return words[meaning_id]
+
+def generate_options(meaning_id, original_language, num_of_options=3):
+    # TODO: make it harder
+    options = []
+
+    while num_of_options > 0:
+        _meaning_id, meaning_eng = choose_random_word()
+        while meaning_id == _meaning_id:
+            _meaning_id, meaning_eng = choose_random_word()
+
+        language = choose_random_lang()
+        while language == original_language:
+            language = choose_random_lang()
+        word = get_word(language, _meaning_id)
+        option = f"{word['text']} ({language})"
+        if option in options: continue
+
+        options.append(option)
+        num_of_options -= 1
+    return options
+
+def shuffle_options(options, answer):
+    correct_index = randint(0, len(options))
+
+    options.insert(correct_index, answer)
+
+    return options, correct_index
+
+def game():
+    if "answer" in st.session_state:
+        answer = st.session_state['answer']
+        question = st.session_state['question']
+        options = st.session_state['options']
+        correct_index = st.session_state['correct_index']
+        selections = [
+                    st.session_state['option_0'],
+                    st.session_state['option_1'],
+                    st.session_state['option_2'],
+                    st.session_state['option_3']
+                  ]
+
+        chosen_index = 0
+        for i, selection in enumerate(selections):
+            if selection:
+                chosen_index = i
+                break
+        chosen = options[chosen_index]
+
+        if selections[correct_index]:
+            st.write(f"Correct!")
+        else:
+            st.write(f"Wrong!")
+            st.write(f"{chosen}")
+
+        st.write(f"{question} == {answer}")
+
+    meaning_id, meaning_eng = choose_random_word()
+
+    question_language = choose_random_lang()
+
+    question_word = get_word(question_language, meaning_id)
+
+    question = f"{question_word['text']} ({question_language})"
+    st.write(question)
+
+    answer_language = choose_random_lang()
+    while answer_language == question_language:
+        answer_language = choose_random_lang()
+
+    answer_word = get_word(answer_language, meaning_id)
+    answer = f"{answer_word['text']} ({answer_language})"
+
+    options = generate_options(meaning_id, question_language)
+    options, correct_index = shuffle_options(options, answer)
+
+    st.session_state['question'] = question
+    st.session_state['answer'] = answer
+    st.session_state['options'] = options
+    st.session_state['correct_index'] = correct_index
+
+    for i, option in enumerate(options):
+        st.button(option, key=f"option_{i}")
+
+if __name__=="__main__":
+    game()

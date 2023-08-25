@@ -1,501 +1,501 @@
 [
     {
-        "text": "\u05d4",
+        "text": "le",
         "pronunication": "the",
         "priority": 0
     },
     {
-        "text": "\u05d0, \u05d0\u05df",
+        "text": "un, un",
         "pronunication": "a, an",
         "priority": 1
     },
     {
-        "text": "\u05dc",
+        "text": "\u00e0",
         "pronunication": "to",
         "priority": 2
     },
     {
-        "text": "\u05d5",
+        "text": "et",
         "pronunication": "and",
         "priority": 3
     },
     {
-        "text": "\u05e9\u05c1\u05b6\u05dc",
+        "text": "de",
         "pronunication": "of",
         "priority": 4
     },
     {
-        "text": "\u05d1",
+        "text": "dans",
         "pronunication": "in",
         "priority": 5
     },
     {
-        "text": "\u05e2\u05dc \u05d0\u05d5\u05d3\u05d5\u05ea",
+        "text": "\u00e0 propos",
         "pronunication": "about",
         "priority": 6
     },
     {
-        "text": "\u05dc\u05d0\u05d7\u05e8",
+        "text": "apr\u00e8s",
         "pronunication": "after",
         "priority": 7
     },
     {
-        "text": "\u05dc\u05e4\u05e0\u05d9",
+        "text": "avant",
         "pronunication": "before",
         "priority": 8
     },
     {
-        "text": "\u05d0\u05e0\u05d9",
+        "text": "je",
         "pronunication": "I",
         "priority": 9
     },
     {
-        "text": "\u05d0\u05ea\u05d4",
+        "text": "toi",
         "pronunication": "you",
         "priority": 10
     },
     {
-        "text": "\u05d4\u05d5\u05d0",
+        "text": "il",
         "pronunication": "he",
         "priority": 11
     },
     {
-        "text": "\u05d4\u05d9\u05d0",
+        "text": "elle",
         "pronunication": "she",
         "priority": 12
     },
     {
-        "text": "\u05d6\u05d4",
+        "text": "il",
         "pronunication": "it",
         "priority": 13
     },
     {
-        "text": "\u05d0\u05b8\u05e0\u05d5\u05bc",
+        "text": "nous",
         "pronunication": "we",
         "priority": 14
     },
     {
-        "text": "\u05d4\u05b5\u05dd",
+        "text": "ils",
         "pronunication": "they",
         "priority": 15
     },
     {
-        "text": "\u05d6\u05b6\u05d4",
+        "text": "que",
         "pronunication": "that",
         "priority": 16
     },
     {
-        "text": "\u05dc",
+        "text": "pour",
         "pronunication": "for",
         "priority": 17
     },
     {
-        "text": "\u05e2\u05b7\u05dc",
+        "text": "sur",
         "pronunication": "on",
         "priority": 18
     },
     {
-        "text": "\u05e2\u05dd",
+        "text": "avec",
         "pronunication": "with",
         "priority": 19
     },
     {
-        "text": "\u05d0\u05d1\u05dc",
+        "text": "mais",
         "pronunication": "but",
         "priority": 20
     },
     {
-        "text": "\u05de",
+        "text": "depuis",
         "pronunication": "from",
         "priority": 21
     },
     {
-        "text": "\u05d0\u05d5\u05b9",
+        "text": "ou",
         "pronunication": "or",
         "priority": 22
     },
     {
-        "text": "\u05de\u05d4",
+        "text": "quoi",
         "pronunication": "what",
         "priority": 23
     },
     {
-        "text": "\u05d0\u05b5\u05d9\u05da",
+        "text": "comment",
         "pronunication": "how",
         "priority": 24
     },
     {
-        "text": "WHO",
+        "text": "OMS",
         "pronunication": "who",
         "priority": 25
     },
     {
-        "text": "\u05de\u05ea\u05d9",
+        "text": "quand",
         "pronunication": "when",
         "priority": 26
     },
     {
-        "text": "\u05db\u05df",
+        "text": "Oui",
         "pronunication": "yes",
         "priority": 27
     },
     {
-        "text": "\u05dc\u05d0",
+        "text": "Non",
         "pronunication": "no",
         "priority": 28
     },
     {
-        "text": "\u05e2\u05b7\u05db\u05e9\u05c1\u05b8\u05d9\u05d5",
+        "text": "maintenant",
         "pronunication": "now",
         "priority": 29
     },
     {
-        "text": "\u05de\u05b8\u05d7\u05b8\u05e8",
+        "text": "demain",
         "pronunication": "tomorrow",
         "priority": 30
     },
     {
-        "text": "\u05d4\u05d9\u05d5\u05dd",
+        "text": "aujourd'hui",
         "pronunication": "today",
         "priority": 31
     },
     {
-        "text": "\u05d0\u05ea\u05de\u05d5\u05dc",
+        "text": "hier",
         "pronunication": "yesterday",
         "priority": 32
     },
     {
-        "text": "\u05e8\u05e7",
+        "text": "seulement",
         "pronunication": "only",
         "priority": 33
     },
     {
-        "text": "\u05db\u05d9",
+        "text": "parce que",
         "pronunication": "because",
         "priority": 34
     },
     {
-        "text": "\u05dc\u05b4\u05d4\u05d9\u05d5\u05b9\u05ea",
+        "text": "\u00eatre",
         "pronunication": "be",
         "priority": 35
     },
     {
-        "text": "\u05d9\u05e9",
+        "text": "avoir",
         "pronunication": "have",
         "priority": 36
     },
     {
-        "text": "\u05dc\u05b7\u05e2\u05b2\u05e9\u05c2\u05d5\u05b9\u05ea",
+        "text": "faire",
         "pronunication": "do",
         "priority": 37
     },
     {
-        "text": "\u05dc\u05e7\u05d1\u05dc",
+        "text": "obtenir",
         "pronunication": "get",
         "priority": 38
     },
     {
-        "text": "\u05e2\u05e9\u05d4",
+        "text": "faire",
         "pronunication": "make",
         "priority": 39
     },
     {
-        "text": "\u05dc\u05dc\u05db\u05ea",
+        "text": "aller",
         "pronunication": "go",
         "priority": 40
     },
     {
-        "text": "\u05d0\u05de\u05e8",
+        "text": "dire",
         "pronunication": "say",
         "priority": 41
     },
     {
-        "text": "\u05dc\u05b4\u05e8\u05b0\u05d0\u05d5\u05b9\u05ea",
+        "text": "voir",
         "pronunication": "see",
         "priority": 42
     },
     {
-        "text": "\u05dc\u05b8\u05d3\u05b7\u05e2\u05b7\u05ea",
+        "text": "savoir",
         "pronunication": "know",
         "priority": 43
     },
     {
-        "text": "\u05dc\u05b7\u05d7\u05e9\u05c1\u05d5\u05b9\u05d1",
+        "text": "pense",
         "pronunication": "think",
         "priority": 44
     },
     {
-        "text": "\u05ea\u05e8\u05d0\u05d4",
+        "text": "regarder",
         "pronunication": "look",
         "priority": 45
     },
     {
-        "text": "\u05e8\u05d5\u05e6\u05d4",
+        "text": "vouloir",
         "pronunication": "want",
         "priority": 46
     },
     {
-        "text": "\u05db\u05de\u05d5",
+        "text": "comme",
         "pronunication": "like",
         "priority": 47
     },
     {
-        "text": "\u05dc\u05e7\u05d7\u05ea",
+        "text": "prendre",
         "pronunication": "take",
         "priority": 48
     },
     {
-        "text": "\u05dc\u05b8\u05ea\u05b5\u05ea",
+        "text": "donner",
         "pronunication": "give",
         "priority": 49
     },
     {
-        "text": "\u05dc\u05b4\u05e9\u05c1\u05b0\u05d0\u05d5\u05b9\u05dc",
+        "text": "demander",
         "pronunication": "ask",
         "priority": 50
     },
     {
-        "text": "\u05d9\u05b0\u05d5\u05b9\u05dd",
+        "text": "jour",
         "pronunication": "day",
         "priority": 51
     },
     {
-        "text": "\u05d6\u05b0\u05de\u05b7\u05df",
+        "text": "temps",
         "pronunication": "time",
         "priority": 52
     },
     {
-        "text": "\u05d0\u05d3\u05dd",
+        "text": "personne",
         "pronunication": "person",
         "priority": 53
     },
     {
-        "text": "\u05e2\u05b2\u05d1\u05d5\u05b9\u05d3\u05b8\u05d4",
+        "text": "travail",
         "pronunication": "work",
         "priority": 54
     },
     {
-        "text": "\u05de\u05e1\u05e4\u05e8",
+        "text": "nombre",
         "pronunication": "number",
         "priority": 55
     },
     {
-        "text": "\u05e1\u05b5\u05e4\u05b6\u05e8",
+        "text": "livre",
         "pronunication": "book",
         "priority": 56
     },
     {
-        "text": "\u05de\u05d3\u05d9\u05e0\u05d4",
+        "text": "pays",
         "pronunication": "country",
         "priority": 57
     },
     {
-        "text": "\u05e7\u05b0\u05d1\u05d5\u05bc\u05e6\u05b8\u05d4",
+        "text": "groupe",
         "pronunication": "group",
         "priority": 58
     },
     {
-        "text": "\u05d1\u05d9\u05ea",
+        "text": "maison",
         "pronunication": "home",
         "priority": 59
     },
     {
-        "text": "\u05de\u05b4\u05e9\u05c1\u05e4\u05bc\u05b8\u05d7\u05b8\u05d4",
+        "text": "famille",
         "pronunication": "family",
         "priority": 60
     },
     {
-        "text": "\u05d7\u05b7\u05d9\u05b4\u05d9\u05dd",
+        "text": "vie",
         "pronunication": "life",
         "priority": 61
     },
     {
-        "text": "\u05dc\u05b7\u05d9\u05b0\u05dc\u05b8\u05d4",
+        "text": "nuit",
         "pronunication": "night",
         "priority": 62
     },
     {
-        "text": "\u05e9\u05c1\u05b0\u05d0\u05b5\u05dc\u05b8\u05d4",
+        "text": "question",
         "pronunication": "question",
         "priority": 63
     },
     {
-        "text": "\u05d9\u05b6\u05dc\u05b6\u05d3",
+        "text": "enfant",
         "pronunication": "child",
         "priority": 64
     },
     {
-        "text": "\u05e9\u05c1\u05b5\u05dd",
+        "text": "nom",
         "pronunication": "name",
         "priority": 65
     },
     {
-        "text": "\u05d9\u05d3",
+        "text": "main",
         "pronunication": "hand",
         "priority": 66
     },
     {
-        "text": "\u05e9\u05c1\u05b8\u05d1\u05d5\u05bc\u05e2\u05b7",
+        "text": "semaine",
         "pronunication": "week",
         "priority": 67
     },
     {
-        "text": "\u05e9\u05c1\u05b8\u05e0\u05b8\u05d4",
+        "text": "ann\u00e9e",
         "pronunication": "year",
         "priority": 68
     },
     {
-        "text": "\u05d1\u05bc\u05b0\u05e2\u05b8\u05d9\u05b8\u05d4",
+        "text": "probl\u00e8me",
         "pronunication": "problem",
         "priority": 69
     },
     {
-        "text": "\u05d0\u05d9\u05e9",
+        "text": "homme",
         "pronunication": "man",
         "priority": 70
     },
     {
-        "text": "\u05d0\u05b4\u05e9\u05c1\u05b8\u05d4",
+        "text": "femme",
         "pronunication": "woman",
         "priority": 71
     },
     {
-        "text": "\u05d7\u05b6\u05d1\u05e8\u05b8\u05d4",
+        "text": "entreprise",
         "pronunication": "company",
         "priority": 72
     },
     {
-        "text": "\u05d3\u05b8\u05d1\u05b8\u05e8",
+        "text": "chose",
         "pronunication": "thing",
         "priority": 73
     },
     {
-        "text": "\u05e2\u05d5\u05b9\u05dc\u05b8\u05dd",
+        "text": "monde",
         "pronunication": "world",
         "priority": 74
     },
     {
-        "text": "\u05db\u05bc\u05b6\u05e1\u05b6\u05e3",
+        "text": "argent",
         "pronunication": "money",
         "priority": 75
     },
     {
-        "text": "\u05de\u05b4\u05dc\u05b8\u05d4",
+        "text": "mot",
         "pronunication": "word",
         "priority": 76
     },
     {
-        "text": "\u05d2\u05d9\u05dc",
+        "text": "\u00e2ge",
         "pronunication": "age",
         "priority": 77
     },
     {
-        "text": "\u05d7\u05b6\u05d3\u05b6\u05e8",
+        "text": "chambre",
         "pronunication": "room",
         "priority": 78
     },
     {
-        "text": "\u05de\u05d9\u05dd",
+        "text": "eau",
         "pronunication": "water",
         "priority": 79
     },
     {
-        "text": "\u05d1\u05d9\u05ea \u05e1\u05e4\u05e8",
+        "text": "\u00e9cole",
         "pronunication": "school",
         "priority": 80
     },
     {
-        "text": "\u05e2\u05b4\u05d9\u05e8",
+        "text": "ville",
         "pronunication": "city",
         "priority": 81
     },
     {
-        "text": "\u05d8\u05d5\u05b9\u05d1",
+        "text": "bien",
         "pronunication": "good",
         "priority": 82
     },
     {
-        "text": "\u05e7\u05b8\u05d8\u05b8\u05df",
+        "text": "petit",
         "pronunication": "small",
         "priority": 83
     },
     {
-        "text": "\u05d0\u05b7\u05d7\u05b5\u05e8",
+        "text": "autre",
         "pronunication": "other",
         "priority": 84
     },
     {
-        "text": "\u05e8\u05b7\u05e2",
+        "text": "mauvais",
         "pronunication": "bad",
         "priority": 85
     },
     {
-        "text": "\u05d2\u05b8\u05d3\u05d5\u05b9\u05dc",
+        "text": "grand",
         "pronunication": "big",
         "priority": 86
     },
     {
-        "text": "\u05d7\u05b8\u05d3\u05b8\u05e9\u05c1",
+        "text": "nouveau",
         "pronunication": "new",
         "priority": 87
     },
     {
-        "text": "\u05d9\u05e9\u05df",
+        "text": "vieux",
         "pronunication": "old",
         "priority": 88
     },
     {
-        "text": "\u05e9\u05d5\u05e0\u05d4",
+        "text": "diff\u00e9rent",
         "pronunication": "different",
         "priority": 89
     },
     {
-        "text": "\u05e6\u05b8\u05e2\u05b4\u05d9\u05e8",
+        "text": "jeune",
         "pronunication": "young",
         "priority": 90
     },
     {
-        "text": "\u05d0\u05e8\u05d5\u05da",
+        "text": "long",
         "pronunication": "long",
         "priority": 91
     },
     {
-        "text": "\u05e7\u05e6\u05e8",
+        "text": "court",
         "pronunication": "short",
         "priority": 92
     },
     {
-        "text": "\u05d0\u05d5\u05ea\u05d5",
+        "text": "m\u00eame",
         "pronunication": "same",
         "priority": 93
     },
     {
-        "text": "\u05e9\u05de\u05d0\u05dc\u05d4",
+        "text": "gauche",
         "pronunication": "left",
         "priority": 94
     },
     {
-        "text": "\u05d9\u05de\u05d9\u05df",
+        "text": "droite",
         "pronunication": "right",
         "priority": 95
     },
     {
-        "text": "\u05d4\u05b7\u05d1\u05bc\u05b8\u05d0",
+        "text": "suivant",
         "pronunication": "next",
         "priority": 96
     },
     {
-        "text": "\u05e8\u05d0\u05e9\u05d5\u05df",
+        "text": "d'abord",
         "pronunication": "first",
         "priority": 97
     },
     {
-        "text": "\u05d0\u05d7\u05e8\u05d5\u05df",
+        "text": "dernier",
         "pronunication": "last",
         "priority": 98
     },
     {
-        "text": "\u05d7\u05b8\u05e9\u05c1\u05d5\u05bc\u05d1",
+        "text": "important",
         "pronunication": "important",
         "priority": 99
     }
