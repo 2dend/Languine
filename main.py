@@ -3,6 +3,7 @@ from deep_translator import GoogleTranslator
 from random import randint
 import streamlit as st
 import json
+import sys
 
 
 def create_lang(meanings, lang):
@@ -18,7 +19,7 @@ def create_lang(meanings, lang):
 
                 lang_dict.append(   {
                                         "text": translated,
-                                        "pronunciation": "",
+                                        "pronunciation": m,
                                     })
 
                 counter += 1
@@ -175,4 +176,8 @@ def game():
 
 if __name__=="__main__":
     game()
+
+    # word = get_word(sys.argv[1],int(sys.argv[2]))
+    # print(f"{word['pronunciation']} => {word['text']}")
+
     # build_db()

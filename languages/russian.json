@@ -1,502 +1,402 @@
 [
     {
         "text": "\u0442\u043e\u0442",
-        "pronunciation": "the",
-        "priority": 0
+        "pronunciation": "tot"
     },
     {
         "text": "\u0430, \u0430\u043d",
-        "pronunciation": "a, an",
-        "priority": 1
+        "pronunciation": "a"
     },
     {
         "text": "\u043a",
-        "pronunciation": "to",
-        "priority": 2
+        "pronunciation": "k"
     },
     {
         "text": "\u0438",
-        "pronunciation": "and",
-        "priority": 3
+        "pronunciation": "i"
     },
     {
         "text": "\u0438\u0437",
-        "pronunciation": "of",
-        "priority": 4
+        "pronunciation": "iz"
     },
     {
         "text": "\u0432",
-        "pronunciation": "in",
-        "priority": 5
+        "pronunciation": "v"
     },
     {
         "text": "\u043e",
-        "pronunciation": "about",
-        "priority": 6
+        "pronunciation": "o"
     },
     {
         "text": "\u043f\u043e\u0441\u043b\u0435",
-        "pronunciation": "after",
-        "priority": 7
+        "pronunciation": "posle"
     },
     {
         "text": "\u0434\u043e",
-        "pronunciation": "before",
-        "priority": 8
+        "pronunciation": "da"
     },
     {
         "text": "\u044f",
-        "pronunciation": "I",
-        "priority": 9
+        "pronunciation": "ya"
     },
     {
         "text": "\u0442\u044b",
-        "pronunciation": "you",
-        "priority": 10
+        "pronunciation": "ty"
     },
     {
         "text": "\u043e\u043d",
-        "pronunciation": "he",
-        "priority": 11
+        "pronunciation": "an"
     },
     {
         "text": "\u043e\u043d\u0430",
-        "pronunciation": "she",
-        "priority": 12
+        "pronunciation": "ana"
     },
     {
         "text": "\u044d\u0442\u043e",
-        "pronunciation": "it",
-        "priority": 13
+        "pronunciation": "eta"
     },
     {
         "text": "\u043c\u044b",
-        "pronunciation": "we",
-        "priority": 14
+        "pronunciation": "my"
     },
     {
         "text": "\u043e\u043d\u0438",
-        "pronunciation": "they",
-        "priority": 15
+        "pronunciation": "ani"
     },
     {
         "text": "\u0447\u0442\u043e",
-        "pronunciation": "that",
-        "priority": 16
+        "pronunciation": "chto"
     },
     {
         "text": "\u0434\u043b\u044f",
-        "pronunciation": "for",
-        "priority": 17
+        "pronunciation": "dlya"
     },
     {
         "text": "\u043d\u0430",
-        "pronunciation": "on",
-        "priority": 18
+        "pronunciation": "na"
     },
     {
         "text": "\u0441",
-        "pronunciation": "with",
-        "priority": 19
+        "pronunciation": "s"
     },
     {
         "text": "\u043d\u043e",
-        "pronunciation": "but",
-        "priority": 20
+        "pronunciation": "no"
     },
     {
         "text": "\u043e\u0442",
-        "pronunciation": "from",
-        "priority": 21
+        "pronunciation": "at"
     },
     {
         "text": "\u0438\u043b\u0438",
-        "pronunciation": "or",
-        "priority": 22
+        "pronunciation": "ili"
     },
     {
         "text": "\u0447\u0442\u043e",
-        "pronunciation": "what",
-        "priority": 23
+        "pronunciation": "chto"
     },
     {
         "text": "\u043a\u0430\u043a",
-        "pronunciation": "how",
-        "priority": 24
+        "pronunciation": "kak"
     },
     {
         "text": "\u0412\u041e\u0417",
-        "pronunciation": "who",
-        "priority": 25
+        "pronunciation": "voz"
     },
     {
         "text": "\u043a\u043e\u0433\u0434\u0430",
-        "pronunciation": "when",
-        "priority": 26
+        "pronunciation": "kagda"
     },
     {
         "text": "\u0434\u0430",
-        "pronunciation": "yes",
-        "priority": 27
+        "pronunciation": "da"
     },
     {
         "text": "\u043d\u0435\u0442",
-        "pronunciation": "no",
-        "priority": 28
+        "pronunciation": "niet"
     },
     {
         "text": "\u0441\u0435\u0439\u0447\u0430\u0441",
-        "pronunciation": "now",
-        "priority": 29
+        "pronunciation": "sychas"
     },
     {
         "text": "\u0437\u0430\u0432\u0442\u0440\u0430",
-        "pronunciation": "tomorrow",
-        "priority": 30
+        "pronunciation": "zavtra"
     },
     {
         "text": "\u0441\u0435\u0433\u043e\u0434\u043d\u044f",
-        "pronunciation": "today",
-        "priority": 31
+        "pronunciation": "syvodnya"
     },
     {
         "text": "\u0432\u0447\u0435\u0440\u0430",
-        "pronunciation": "yesterday",
-        "priority": 32
+        "pronunciation": "vchera"
     },
     {
         "text": "\u0442\u043e\u043b\u044c\u043a\u043e",
-        "pronunciation": "only",
-        "priority": 33
+        "pronunciation": "toika"
     },
     {
         "text": "\u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e",
-        "pronunciation": "because",
-        "priority": 34
+        "pronunciation": "potomu chto"
     },
     {
         "text": "\u0431\u044b\u0442\u044c",
-        "pronunciation": "be",
-        "priority": 35
+        "pronunciation": "byt'"
     },
     {
         "text": "\u0438\u043c\u0435\u0442\u044c",
-        "pronunciation": "have",
-        "priority": 36
+        "pronunciation": "imet'"
     },
     {
         "text": "\u0434\u0435\u043b\u0430\u0442\u044c",
-        "pronunciation": "do",
-        "priority": 37
+        "pronunciation": "delet'"
     },
     {
         "text": "\u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c",
-        "pronunciation": "get",
-        "priority": 38
+        "pronunciation": "poluchat'"
     },
     {
         "text": "\u0434\u0435\u043b\u0430\u0442\u044c",
-        "pronunciation": "make",
-        "priority": 39
+        "pronunciation": "delet'"
     },
     {
         "text": "\u0438\u0434\u0442\u0438",
-        "pronunciation": "go",
-        "priority": 40
+        "pronunciation": "idti"
     },
     {
         "text": "\u0441\u043a\u0430\u0437\u0430\u0442\u044c",
-        "pronunciation": "say",
-        "priority": 41
+        "pronunciation": "skazat"
     },
     {
         "text": "\u0432\u0438\u0434\u0435\u0442\u044c",
-        "pronunciation": "see",
-        "priority": 42
+        "pronunciation": "vidit'"
     },
     {
         "text": "\u0437\u043d\u0430\u0442\u044c",
-        "pronunciation": "know",
-        "priority": 43
+        "pronunciation": "znat"
     },
     {
         "text": "\u0434\u0443\u043c\u0430\u0442\u044c",
-        "pronunciation": "think",
-        "priority": 44
+        "pronunciation": "dumat"
     },
     {
         "text": "\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c",
-        "pronunciation": "look",
-        "priority": 45
+        "pronunciation": "smatrit"
     },
     {
         "text": "\u0445\u043e\u0442\u0435\u0442\u044c",
-        "pronunciation": "want",
-        "priority": 46
+        "pronunciation": "khotet"
     },
     {
         "text": "\u043d\u0440\u0430\u0432\u0438\u0442\u044c\u0441\u044f",
-        "pronunciation": "like",
-        "priority": 47
+        "pronunciation": "nravitsa"
     },
     {
         "text": "\u0431\u0440\u0430\u0442\u044c",
-        "pronunciation": "take",
-        "priority": 48
+        "pronunciation": "brat'"
     },
     {
         "text": "\u0434\u0430\u0432\u0430\u0442\u044c",
-        "pronunciation": "give",
-        "priority": 49
+        "pronunciation": "davat'"
     },
     {
         "text": "\u043f\u0440\u043e\u0441\u0438\u0442\u044c",
-        "pronunciation": "ask",
-        "priority": 50
+        "pronunciation": "prasit"
     },
     {
         "text": "\u0434\u0435\u043d\u044c",
-        "pronunciation": "day",
-        "priority": 51
+        "pronunciation": "din"
     },
     {
         "text": "\u0432\u0440\u0435\u043c\u044f",
-        "pronunciation": "time",
-        "priority": 52
+        "pronunciation": "vremya"
     },
     {
         "text": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a",
-        "pronunciation": "person",
-        "priority": 53
+        "pronunciation": "chelavek"
     },
     {
         "text": "\u0440\u0430\u0431\u043e\u0442\u0430",
-        "pronunciation": "work",
-        "priority": 54
+        "pronunciation": "rabota"
     },
     {
         "text": "\u0447\u0438\u0441\u043b\u043e",
-        "pronunciation": "number",
-        "priority": 55
+        "pronunciation": "chislo"
     },
     {
         "text": "\u043a\u043d\u0438\u0433\u0430",
-        "pronunciation": "book",
-        "priority": 56
+        "pronunciation": "kniga"
     },
     {
         "text": "\u0441\u0442\u0440\u0430\u043d\u0430",
-        "pronunciation": "country",
-        "priority": 57
+        "pronunciation": "strana"
     },
     {
         "text": "\u0433\u0440\u0443\u043f\u043f\u0430",
-        "pronunciation": "group",
-        "priority": 58
+        "pronunciation": "grupa"
     },
     {
         "text": "\u0434\u043e\u043c",
-        "pronunciation": "home",
-        "priority": 59
+        "pronunciation": "dom"
     },
     {
         "text": "\u0441\u0435\u043c\u044c\u044f",
-        "pronunciation": "family",
-        "priority": 60
+        "pronunciation": "simya"
     },
     {
         "text": "\u0436\u0438\u0437\u043d\u044c",
-        "pronunciation": "life",
-        "priority": 61
+        "pronunciation": "zhizn'"
     },
     {
         "text": "\u043d\u043e\u0447\u044c",
-        "pronunciation": "night",
-        "priority": 62
+        "pronunciation": "noch"
     },
     {
         "text": "\u0432\u043e\u043f\u0440\u043e\u0441",
-        "pronunciation": "question",
-        "priority": 63
+        "pronunciation": "vopros"
     },
     {
         "text": "\u0440\u0435\u0431\u0435\u043d\u043e\u043a",
-        "pronunciation": "child",
-        "priority": 64
+        "pronunciation": "ribonak"
     },
     {
         "text": "\u0438\u043c\u044f",
-        "pronunciation": "name",
-        "priority": 65
+        "pronunciation": "imya"
     },
     {
         "text": "\u0440\u0443\u043a\u0430",
-        "pronunciation": "hand",
-        "priority": 66
+        "pronunciation": "ruka"
     },
     {
         "text": "\u043d\u0435\u0434\u0435\u043b\u044f",
-        "pronunciation": "week",
-        "priority": 67
+        "pronunciation": "nidelya"
     },
     {
         "text": "\u0433\u043e\u0434",
-        "pronunciation": "year",
-        "priority": 68
+        "pronunciation": "god"
     },
     {
         "text": "\u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430",
-        "pronunciation": "problem",
-        "priority": 69
+        "pronunciation": "prablema"
     },
     {
         "text": "\u043c\u0443\u0436\u0447\u0438\u043d\u0430",
-        "pronunciation": "man",
-        "priority": 70
+        "pronunciation": "mushina"
     },
     {
         "text": "\u0436\u0435\u043d\u0449\u0438\u043d\u0430",
-        "pronunciation": "woman",
-        "priority": 71
+        "pronunciation": "zhenshina"
     },
     {
         "text": "\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
-        "pronunciation": "company",
-        "priority": 72
+        "pronunciation": "kampanyia"
     },
     {
         "text": "\u0432\u0435\u0449\u044c",
-        "pronunciation": "thing",
-        "priority": 73
+        "pronunciation": "vesh"
     },
     {
         "text": "\u043c\u0438\u0440",
-        "pronunciation": "world",
-        "priority": 74
+        "pronunciation": "mir"
     },
     {
         "text": "\u0434\u0435\u043d\u044c\u0433\u0438",
-        "pronunciation": "money",
-        "priority": 75
+        "pronunciation": "d'engi"
     },
     {
         "text": "\u0441\u043b\u043e\u0432\u043e",
-        "pronunciation": "word",
-        "priority": 76
+        "pronunciation": "slova"
     },
     {
         "text": "\u0432\u043e\u0437\u0440\u0430\u0441\u0442",
-        "pronunciation": "age",
-        "priority": 77
+        "pronunciation": "vozrast"
     },
     {
         "text": "\u043a\u043e\u043c\u043d\u0430\u0442\u0430",
-        "pronunciation": "room",
-        "priority": 78
+        "pronunciation": "komnata"
     },
     {
         "text": "\u0432\u043e\u0434\u0430",
-        "pronunciation": "water",
-        "priority": 79
+        "pronunciation": "vada"
     },
     {
         "text": "\u0448\u043a\u043e\u043b\u0430",
-        "pronunciation": "school",
-        "priority": 80
+        "pronunciation": "shkola"
     },
     {
         "text": "\u0433\u043e\u0440\u043e\u0434",
-        "pronunciation": "city",
-        "priority": 81
+        "pronunciation": "gorod"
     },
     {
         "text": "\u0445\u043e\u0440\u043e\u0448\u0438\u0439",
-        "pronunciation": "good",
-        "priority": 82
+        "pronunciation": "kharoshy"
     },
     {
         "text": "\u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439",
-        "pronunciation": "small",
-        "priority": 83
+        "pronunciation": "mal'inky"
     },
     {
         "text": "\u0434\u0440\u0443\u0433\u043e\u0439",
-        "pronunciation": "other",
-        "priority": 84
+        "pronunciation": "drugoi"
     },
     {
         "text": "\u043f\u043b\u043e\u0445\u043e\u0439",
-        "pronunciation": "bad",
-        "priority": 85
+        "pronunciation": "plakhoy"
     },
     {
         "text": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439",
-        "pronunciation": "big",
-        "priority": 86
+        "pronunciation": "balshoy"
     },
     {
         "text": "\u043d\u043e\u0432\u044b\u0439",
-        "pronunciation": "new",
-        "priority": 87
+        "pronunciation": "novy"
     },
     {
         "text": "\u0441\u0442\u0430\u0440\u044b\u0439",
-        "pronunciation": "old",
-        "priority": 88
+        "pronunciation": "stary"
     },
     {
         "text": "\u0434\u0440\u0443\u0433\u043e\u0439",
-        "pronunciation": "different",
-        "priority": 89
+        "pronunciation": "drugoy"
     },
     {
         "text": "\u043c\u043e\u043b\u043e\u0434\u043e\u0439",
-        "pronunciation": "young",
-        "priority": 90
+        "pronunciation": "molodoy"
     },
     {
         "text": "\u0434\u043b\u0438\u043d\u043d\u044b\u0439",
-        "pronunciation": "long",
-        "priority": 91
+        "pronunciation": "dliny"
     },
     {
         "text": "\u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439",
-        "pronunciation": "short",
-        "priority": 92
+        "pronunciation": "karotky"
     },
     {
         "text": "\u0442\u0430\u043a\u043e\u0439 \u0436\u0435",
-        "pronunciation": "same",
-        "priority": 93
+        "pronunciation": "takoy zhe"
     },
     {
         "text": "\u043b\u0435\u0432\u044b\u0439",
-        "pronunciation": "left",
-        "priority": 94
+        "pronunciation": "levvy"
     },
     {
         "text": "\u0432\u0435\u0440\u043d\u043e",
-        "pronunciation": "right",
-        "priority": 95
+        "pronunciation": "verna"
     },
     {
         "text": "\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439",
-        "pronunciation": "next",
-        "priority": 96
+        "pronunciation": "sleduyshi"
     },
     {
         "text": "\u043f\u0435\u0440\u0432\u044b\u0439",
-        "pronunciation": "first",
-        "priority": 97
+        "pronunciation": "perwy"
     },
     {
         "text": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439",
-        "pronunciation": "last",
-        "priority": 98
+        "pronunciation": "pasledny"
     },
     {
         "text": "\u0432\u0430\u0436\u043d\u044b\u0439",
-        "pronunciation": "important",
-        "priority": 99
+        "pronunciation": "vazhny"
     }
 ]
