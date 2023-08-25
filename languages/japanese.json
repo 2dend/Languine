@@ -1,502 +1,402 @@
 [
     {
         "text": "\u306e",
-        "pronunciation": "the",
-        "priority": 0
+        "pronunciation": "no"
     },
     {
         "text": "\u3042\u3042\u3001",
-        "pronunciation": "a, an",
-        "priority": 1
+        "pronunciation": "aru"
     },
     {
         "text": "\u306b",
-        "pronunciation": "to",
-        "priority": 2
+        "pronunciation": "ni"
     },
     {
         "text": "\u305d\u3057\u3066",
-        "pronunciation": "and",
-        "priority": 3
+        "pronunciation": "soshte"
     },
     {
         "text": "\u306e",
-        "pronunciation": "of",
-        "priority": 4
+        "pronunciation": "no"
     },
     {
         "text": "\u3067",
-        "pronunciation": "in",
-        "priority": 5
+        "pronunciation": "de"
     },
     {
         "text": "\u306b\u3064\u3044\u3066",
-        "pronunciation": "about",
-        "priority": 6
+        "pronunciation": "ni tsuite"
     },
     {
         "text": "\u5f8c",
-        "pronunciation": "after",
-        "priority": 7
+        "pronunciation": "ato"
     },
     {
         "text": "\u524d\u306b",
-        "pronunciation": "before",
-        "priority": 8
+        "pronunciation": "mae ni"
     },
     {
         "text": "\u79c1",
-        "pronunciation": "I",
-        "priority": 9
+        "pronunciation": "watashi"
     },
     {
         "text": "\u3042\u306a\u305f",
-        "pronunciation": "you",
-        "priority": 10
+        "pronunciation": "anata"
     },
     {
         "text": "\u5f7c",
-        "pronunciation": "he",
-        "priority": 11
+        "pronunciation": "kare"
     },
     {
         "text": "\u5f7c\u5973",
-        "pronunciation": "she",
-        "priority": 12
+        "pronunciation": "kanojo"
     },
     {
         "text": "\u305d\u308c",
-        "pronunciation": "it",
-        "priority": 13
+        "pronunciation": "sore"
     },
     {
         "text": "\u79c1\u305f\u3061\u306f",
-        "pronunciation": "we",
-        "priority": 14
+        "pronunciation": "watashtachiva"
     },
     {
         "text": "\u5f7c\u3089\u306f",
-        "pronunciation": "they",
-        "priority": 15
+        "pronunciation": "karera wa"
     },
     {
         "text": "\u305d\u308c",
-        "pronunciation": "that",
-        "priority": 16
+        "pronunciation": "sore"
     },
     {
         "text": "\u306e\u305f\u3081\u306b",
-        "pronunciation": "for",
-        "priority": 17
+        "pronunciation": "no tame ni"
     },
     {
         "text": "\u306e\u4e0a",
-        "pronunciation": "on",
-        "priority": 18
+        "pronunciation": "no ue"
     },
     {
         "text": "\u3068",
-        "pronunciation": "with",
-        "priority": 19
+        "pronunciation": "to"
     },
     {
         "text": "\u3057\u304b\u3057",
-        "pronunciation": "but",
-        "priority": 20
+        "pronunciation": "shkashi"
     },
     {
         "text": "\u304b\u3089",
-        "pronunciation": "from",
-        "priority": 21
+        "pronunciation": "kara"
     },
     {
         "text": "\u307e\u305f\u306f",
-        "pronunciation": "or",
-        "priority": 22
+        "pronunciation": "matava"
     },
     {
         "text": "\u4f55",
-        "pronunciation": "what",
-        "priority": 23
+        "pronunciation": "nani"
     },
     {
         "text": "\u3069\u3046\u3084\u3063\u3066",
-        "pronunciation": "how",
-        "priority": 24
+        "pronunciation": "do yate"
     },
     {
         "text": "\u8ab0\u304c",
-        "pronunciation": "who",
-        "priority": 25
+        "pronunciation": "dare ga"
     },
     {
         "text": "\u3044\u3064",
-        "pronunciation": "when",
-        "priority": 26
+        "pronunciation": "itsu"
     },
     {
         "text": "\u306f\u3044",
-        "pronunciation": "yes",
-        "priority": 27
+        "pronunciation": "hai"
     },
     {
         "text": "\u3044\u3044\u3048",
-        "pronunciation": "no",
-        "priority": 28
+        "pronunciation": "ie"
     },
     {
         "text": "\u4eca",
-        "pronunciation": "now",
-        "priority": 29
+        "pronunciation": "ima"
     },
     {
         "text": "\u660e\u65e5",
-        "pronunciation": "tomorrow",
-        "priority": 30
+        "pronunciation": "ashta"
     },
     {
         "text": "\u4eca\u65e5",
-        "pronunciation": "today",
-        "priority": 31
+        "pronunciation": "kyo"
     },
     {
         "text": "\u6628\u65e5",
-        "pronunciation": "yesterday",
-        "priority": 32
+        "pronunciation": "kino"
     },
     {
         "text": "\u306e\u307f",
-        "pronunciation": "only",
-        "priority": 33
+        "pronunciation": "nomi"
     },
     {
         "text": "\u306a\u305c\u306a\u3089",
-        "pronunciation": "because",
-        "priority": 34
+        "pronunciation": "nazenara"
     },
     {
         "text": "\u306a\u308c",
-        "pronunciation": "be",
-        "priority": 35
+        "pronunciation": "nare"
     },
     {
         "text": "\u6301\u3063\u3066\u3044\u308b",
-        "pronunciation": "have",
-        "priority": 36
+        "pronunciation": "mote iru"
     },
     {
         "text": "\u3059\u308b",
-        "pronunciation": "do",
-        "priority": 37
+        "pronunciation": "suru"
     },
     {
         "text": "\u5f97\u308b",
-        "pronunciation": "get",
-        "priority": 38
+        "pronunciation": "eru"
     },
     {
         "text": "\u4f5c\u308b",
-        "pronunciation": "make",
-        "priority": 39
+        "pronunciation": "tsukuru"
     },
     {
         "text": "\u884c\u304f",
-        "pronunciation": "go",
-        "priority": 40
+        "pronunciation": "iku"
     },
     {
         "text": "\u8a00\u3046",
-        "pronunciation": "say",
-        "priority": 41
+        "pronunciation": "iu"
     },
     {
         "text": "\u898b\u308b",
-        "pronunciation": "see",
-        "priority": 42
+        "pronunciation": "miru"
     },
     {
         "text": "\u77e5\u308b",
-        "pronunciation": "know",
-        "priority": 43
+        "pronunciation": "shiru"
     },
     {
         "text": "\u8003\u3048\u308b",
-        "pronunciation": "think",
-        "priority": 44
+        "pronunciation": "kangaeru"
     },
     {
         "text": "\u898b\u3066",
-        "pronunciation": "look",
-        "priority": 45
+        "pronunciation": "mite"
     },
     {
         "text": "\u6b32\u3057\u3044",
-        "pronunciation": "want",
-        "priority": 46
+        "pronunciation": "hoshi"
     },
     {
         "text": "\u306e\u3088\u3046\u306b",
-        "pronunciation": "like",
-        "priority": 47
+        "pronunciation": "no yo ni"
     },
     {
         "text": "\u53d6\u308b",
-        "pronunciation": "take",
-        "priority": 48
+        "pronunciation": "toru"
     },
     {
         "text": "\u4e0e\u3048\u308b",
-        "pronunciation": "give",
-        "priority": 49
+        "pronunciation": "ataeru"
     },
     {
         "text": "\u805e\u304f",
-        "pronunciation": "ask",
-        "priority": 50
+        "pronunciation": "kiku"
     },
     {
         "text": "\u65e5",
-        "pronunciation": "day",
-        "priority": 51
+        "pronunciation": "hi"
     },
     {
         "text": "\u6642\u9593",
-        "pronunciation": "time",
-        "priority": 52
+        "pronunciation": "jikan"
     },
     {
         "text": "\u4eba",
-        "pronunciation": "person",
-        "priority": 53
+        "pronunciation": "hito"
     },
     {
         "text": "\u4ed5\u4e8b",
-        "pronunciation": "work",
-        "priority": 54
+        "pronunciation": "shigoto"
     },
     {
         "text": "\u756a\u53f7",
-        "pronunciation": "number",
-        "priority": 55
+        "pronunciation": "bango"
     },
     {
         "text": "\u672c",
-        "pronunciation": "book",
-        "priority": 56
+        "pronunciation": "hon"
     },
     {
         "text": "\u56fd",
-        "pronunciation": "country",
-        "priority": 57
+        "pronunciation": "kuni"
     },
     {
         "text": "\u30b0\u30eb\u30fc\u30d7",
-        "pronunciation": "group",
-        "priority": 58
+        "pronunciation": "guruup"
     },
     {
         "text": "\u5bb6",
-        "pronunciation": "home",
-        "priority": 59
+        "pronunciation": "ia"
     },
     {
         "text": "\u5bb6\u65cf",
-        "pronunciation": "family",
-        "priority": 60
+        "pronunciation": "kazoku"
     },
     {
         "text": "\u4eba\u751f",
-        "pronunciation": "life",
-        "priority": 61
+        "pronunciation": "jinsei"
     },
     {
         "text": "\u591c",
-        "pronunciation": "night",
-        "priority": 62
+        "pronunciation": "yoru"
     },
     {
         "text": "\u8cea\u554f",
-        "pronunciation": "question",
-        "priority": 63
+        "pronunciation": "shtsumon"
     },
     {
         "text": "\u5b50\u4f9b",
-        "pronunciation": "child",
-        "priority": 64
+        "pronunciation": "kodomo"
     },
     {
         "text": "\u540d\u524d",
-        "pronunciation": "name",
-        "priority": 65
+        "pronunciation": "namae"
     },
     {
         "text": "\u624b",
-        "pronunciation": "hand",
-        "priority": 66
+        "pronunciation": "te"
     },
     {
         "text": "\u9031",
-        "pronunciation": "week",
-        "priority": 67
+        "pronunciation": "shu"
     },
     {
         "text": "\u5e74",
-        "pronunciation": "year",
-        "priority": 68
+        "pronunciation": "toshi"
     },
     {
         "text": "\u554f\u984c",
-        "pronunciation": "problem",
-        "priority": 69
+        "pronunciation": "mondai"
     },
     {
         "text": "\u7537",
-        "pronunciation": "man",
-        "priority": 70
+        "pronunciation": "otoko"
     },
     {
         "text": "\u5973\u6027",
-        "pronunciation": "woman",
-        "priority": 71
+        "pronunciation": "josei"
     },
     {
         "text": "\u4f1a\u793e",
-        "pronunciation": "company",
-        "priority": 72
+        "pronunciation": "kaisha"
     },
     {
         "text": "\u3082\u306e",
-        "pronunciation": "thing",
-        "priority": 73
+        "pronunciation": "mono"
     },
     {
         "text": "\u4e16\u754c",
-        "pronunciation": "world",
-        "priority": 74
+        "pronunciation": "sekai"
     },
     {
         "text": "\u304a\u91d1",
-        "pronunciation": "money",
-        "priority": 75
+        "pronunciation": "okane"
     },
     {
         "text": "\u8a00\u8449",
-        "pronunciation": "word",
-        "priority": 76
+        "pronunciation": "kotoba"
     },
     {
         "text": "\u5e74",
-        "pronunciation": "age",
-        "priority": 77
+        "pronunciation": "toshi"
     },
     {
         "text": "\u90e8\u5c4b",
-        "pronunciation": "room",
-        "priority": 78
+        "pronunciation": "heya"
     },
     {
         "text": "\u6c34",
-        "pronunciation": "water",
-        "priority": 79
+        "pronunciation": "mizu"
     },
     {
         "text": "\u5b66\u6821",
-        "pronunciation": "school",
-        "priority": 80
+        "pronunciation": "gako"
     },
     {
         "text": "\u5e02",
-        "pronunciation": "city",
-        "priority": 81
+        "pronunciation": "ichi"
     },
     {
         "text": "\u826f\u3044",
-        "pronunciation": "good",
-        "priority": 82
+        "pronunciation": "yoi"
     },
     {
         "text": "\u5c0f\u3055\u3044",
-        "pronunciation": "small",
-        "priority": 83
+        "pronunciation": "chisai"
     },
     {
         "text": "\u4ed6\u306e",
-        "pronunciation": "other",
-        "priority": 84
+        "pronunciation": "hoka no"
     },
     {
         "text": "\u60aa\u3044",
-        "pronunciation": "bad",
-        "priority": 85
+        "pronunciation": "warui"
     },
     {
         "text": "\u5927\u304d\u3044",
-        "pronunciation": "big",
-        "priority": 86
+        "pronunciation": "oki"
     },
     {
         "text": "\u65b0\u3057\u3044",
-        "pronunciation": "new",
-        "priority": 87
+        "pronunciation": "atarashi"
     },
     {
         "text": "\u53e4\u3044",
-        "pronunciation": "old",
-        "priority": 88
+        "pronunciation": "furui"
     },
     {
         "text": "\u9055\u3046",
-        "pronunciation": "different",
-        "priority": 89
+        "pronunciation": "chigau"
     },
     {
         "text": "\u82e5\u3044",
-        "pronunciation": "young",
-        "priority": 90
+        "pronunciation": "wakai"
     },
     {
         "text": "\u9577\u3055",
-        "pronunciation": "long",
-        "priority": 91
+        "pronunciation": "nagasa"
     },
     {
         "text": "\u77ed\u3044",
-        "pronunciation": "short",
-        "priority": 92
+        "pronunciation": "mijikai"
     },
     {
         "text": "\u540c\u3058",
-        "pronunciation": "same",
-        "priority": 93
+        "pronunciation": "onaji"
     },
     {
         "text": "\u5de6",
-        "pronunciation": "left",
-        "priority": 94
+        "pronunciation": "hidari"
     },
     {
         "text": "\u53f3",
-        "pronunciation": "right",
-        "priority": 95
+        "pronunciation": "migi"
     },
     {
         "text": "\u6b21",
-        "pronunciation": "next",
-        "priority": 96
+        "pronunciation": "tsugi"
     },
     {
         "text": "\u521d\u3081",
-        "pronunciation": "first",
-        "priority": 97
+        "pronunciation": "hajime"
     },
     {
         "text": "\u6700\u5f8c",
-        "pronunciation": "last",
-        "priority": 98
+        "pronunciation": "saigo"
     },
     {
         "text": "\u91cd\u8981",
-        "pronunciation": "important",
-        "priority": 99
+        "pronunciation": "juyo"
     }
 ]

@@ -111,7 +111,7 @@ def game():
                                 [   "english",
                                     "russian",
                                     "arabic",
-                                    # "japanese",
+                                    "japanese",
                                     # "french",
                                     # "spanish"
                                 ])
