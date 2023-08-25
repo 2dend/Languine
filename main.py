@@ -109,9 +109,10 @@ def game():
     selected_languages = st.multiselect("what languages to include?",
                                 get_available_languages(),
                                 [   "english",
-                                    # "french",
                                     "russian",
-                                    # "arabic",
+                                    "arabic",
+                                    # "japanese",
+                                    # "french",
                                     # "spanish"
                                 ])
 

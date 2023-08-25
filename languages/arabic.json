@@ -1,502 +1,402 @@
 [
     {
         "text": "\u0627\u0644",
-        "pronunciation": "the",
-        "priority": 0
+        "pronunciation": "al"
     },
     {
         "text": "\u0623\u060c \u0627\u0646",
-        "pronunciation": "a, an",
-        "priority": 1
+        "pronunciation": "a"
     },
     {
         "text": "\u0644",
-        "pronunciation": "to",
-        "priority": 2
+        "pronunciation": "lam"
     },
     {
         "text": "\u0648",
-        "pronunciation": "and",
-        "priority": 3
+        "pronunciation": "wa"
     },
     {
         "text": "\u0644",
-        "pronunciation": "of",
-        "priority": 4
+        "pronunciation": "lam"
     },
     {
         "text": "\u0641\u064a",
-        "pronunciation": "in",
-        "priority": 5
+        "pronunciation": "fi"
     },
     {
         "text": "\u0639\u0646",
-        "pronunciation": "about",
-        "priority": 6
+        "pronunciation": "an"
     },
     {
         "text": "\u0628\u0639\u062f",
-        "pronunciation": "after",
-        "priority": 7
+        "pronunciation": "bado"
     },
     {
         "text": "\u0642\u0628\u0644",
-        "pronunciation": "before",
-        "priority": 8
+        "pronunciation": "qablu"
     },
     {
         "text": "\u0623\u0646\u0627",
-        "pronunciation": "I",
-        "priority": 9
+        "pronunciation": "'ana"
     },
     {
         "text": "\u0623\u0646\u062a",
-        "pronunciation": "you",
-        "priority": 10
+        "pronunciation": "'ant"
     },
     {
         "text": "\u0647\u0648",
-        "pronunciation": "he",
-        "priority": 11
+        "pronunciation": "huwa"
     },
     {
         "text": "\u0647\u064a",
-        "pronunciation": "she",
-        "priority": 12
+        "pronunciation": "hia"
     },
     {
         "text": "\u0647\u0648 - \u0647\u064a",
-        "pronunciation": "it",
-        "priority": 13
+        "pronunciation": "hua - hia"
     },
     {
         "text": "\u0646\u062d\u0646",
-        "pronunciation": "we",
-        "priority": 14
+        "pronunciation": "nahnu"
     },
     {
         "text": "\u0647\u0645",
-        "pronunciation": "they",
-        "priority": 15
+        "pronunciation": "hum"
     },
     {
         "text": "\u0627\u0644\u0630\u064a - \u0627\u0644\u062a\u064a",
-        "pronunciation": "that",
-        "priority": 16
+        "pronunciation": "aladhi - alati"
     },
     {
         "text": "\u0644",
-        "pronunciation": "for",
-        "priority": 17
+        "pronunciation": "lam"
     },
     {
         "text": "\u0639\u0644\u0649",
-        "pronunciation": "on",
-        "priority": 18
+        "pronunciation": "aala"
     },
     {
         "text": "\u0645\u0639",
-        "pronunciation": "with",
-        "priority": 19
+        "pronunciation": "ma'a"
     },
     {
         "text": "\u0644\u0643\u0646",
-        "pronunciation": "but",
-        "priority": 20
+        "pronunciation": "lakin"
     },
     {
         "text": "\u0645\u0646",
-        "pronunciation": "from",
-        "priority": 21
+        "pronunciation": "men"
     },
     {
         "text": "\u0623\u0648",
-        "pronunciation": "or",
-        "priority": 22
+        "pronunciation": "aw'"
     },
     {
         "text": "\u0645\u0627\u0630\u0627",
-        "pronunciation": "what",
-        "priority": 23
+        "pronunciation": "m'ada"
     },
     {
         "text": "\u0643\u064a\u0641",
-        "pronunciation": "how",
-        "priority": 24
+        "pronunciation": "kayf"
     },
     {
         "text": "\u0645\u0646",
-        "pronunciation": "who",
-        "priority": 25
+        "pronunciation": "men"
     },
     {
         "text": "\u0645\u062a\u0649",
-        "pronunciation": "when",
-        "priority": 26
+        "pronunciation": "mata"
     },
     {
         "text": "\u0646\u0639\u0645",
-        "pronunciation": "yes",
-        "priority": 27
+        "pronunciation": "na'am"
     },
     {
         "text": "\u0644\u0627",
-        "pronunciation": "no",
-        "priority": 28
+        "pronunciation": "la"
     },
     {
         "text": "\u0627\u0644\u0622\u0646",
-        "pronunciation": "now",
-        "priority": 29
+        "pronunciation": "ala'na"
     },
     {
         "text": "\u063a\u062f\u0627\u064b",
-        "pronunciation": "tomorrow",
-        "priority": 30
+        "pronunciation": "r'adan"
     },
     {
         "text": "\u0627\u0644\u064a\u0648\u0645",
-        "pronunciation": "today",
-        "priority": 31
+        "pronunciation": "alyoma"
     },
     {
         "text": "\u0623\u0645\u0633",
-        "pronunciation": "yesterday",
-        "priority": 32
+        "pronunciation": "amsi"
     },
     {
         "text": "\u0641\u0642\u0637",
-        "pronunciation": "only",
-        "priority": 33
+        "pronunciation": "faq'a"
     },
     {
         "text": "\u0644\u0623\u0646",
-        "pronunciation": "because",
-        "priority": 34
+        "pronunciation": "li'ana"
     },
     {
         "text": "\u064a\u0643\u0648\u0646",
-        "pronunciation": "be",
-        "priority": 35
+        "pronunciation": "yakunu"
     },
     {
         "text": "\u064a\u0645\u0644\u0643",
-        "pronunciation": "have",
-        "priority": 36
+        "pronunciation": "yamliku"
     },
     {
         "text": "\u064a\u0641\u0639\u0644",
-        "pronunciation": "do",
-        "priority": 37
+        "pronunciation": "yafalu"
     },
     {
         "text": "\u064a\u062d\u0635\u0644",
-        "pronunciation": "get",
-        "priority": 38
+        "pronunciation": "yahsulu"
     },
     {
         "text": "\u064a\u0635\u0646\u0639",
-        "pronunciation": "make",
-        "priority": 39
+        "pronunciation": "yasnao"
     },
     {
         "text": "\u064a\u0630\u0647\u0628",
-        "pronunciation": "go",
-        "priority": 40
+        "pronunciation": "yadhabo"
     },
     {
         "text": "\u064a\u0642\u0648\u0644",
-        "pronunciation": "say",
-        "priority": 41
+        "pronunciation": "yakulu"
     },
     {
         "text": "\u064a\u0631\u0649",
-        "pronunciation": "see",
-        "priority": 42
+        "pronunciation": "yara"
     },
     {
         "text": "\u064a\u0639\u0631\u0641",
-        "pronunciation": "know",
-        "priority": 43
+        "pronunciation": "yuarafu"
     },
     {
         "text": "\u064a\u0641\u0643\u0631",
-        "pronunciation": "think",
-        "priority": 44
+        "pronunciation": "yufakiru"
     },
     {
         "text": "\u064a\u0646\u0638\u0631",
-        "pronunciation": "look",
-        "priority": 45
+        "pronunciation": "yanzuro"
     },
     {
         "text": "\u064a\u0631\u064a\u062f",
-        "pronunciation": "want",
-        "priority": 46
+        "pronunciation": "yuridu"
     },
     {
         "text": "\u064a\u062d\u0628",
-        "pronunciation": "like",
-        "priority": 47
+        "pronunciation": "yuhabo"
     },
     {
         "text": "\u064a\u0623\u062e\u0630",
-        "pronunciation": "take",
-        "priority": 48
+        "pronunciation": "yakhudu"
     },
     {
         "text": "\u064a\u0639\u0637\u064a",
-        "pronunciation": "give",
-        "priority": 49
+        "pronunciation": "yu'ati"
     },
     {
         "text": "\u0628\u0633\u0623\u0644",
-        "pronunciation": "ask",
-        "priority": 50
+        "pronunciation": "basa'al"
     },
     {
         "text": "\u064a\u0648\u0645",
-        "pronunciation": "day",
-        "priority": 51
+        "pronunciation": "yawm"
     },
     {
         "text": "\u0648\u0642\u062a",
-        "pronunciation": "time",
-        "priority": 52
+        "pronunciation": "wakat"
     },
     {
         "text": "\u0634\u062e\u0635",
-        "pronunciation": "person",
-        "priority": 53
+        "pronunciation": "shakhs"
     },
     {
         "text": "\u0639\u0645\u0644",
-        "pronunciation": "work",
-        "priority": 54
+        "pronunciation": "aamal"
     },
     {
         "text": "\u0631\u0642\u0645",
-        "pronunciation": "number",
-        "priority": 55
+        "pronunciation": "raqm"
     },
     {
         "text": "\u0643\u062a\u0627\u0628",
-        "pronunciation": "book",
-        "priority": 56
+        "pronunciation": "kitab"
     },
     {
         "text": "\u062f\u0648\u0644\u0629",
-        "pronunciation": "country",
-        "priority": 57
+        "pronunciation": "dawlat"
     },
     {
         "text": "\u0645\u062c\u0645\u0648\u0639\u0629",
-        "pronunciation": "group",
-        "priority": 58
+        "pronunciation": "mazhmuat"
     },
     {
         "text": "\u0628\u064a\u062a",
-        "pronunciation": "home",
-        "priority": 59
+        "pronunciation": "bayt"
     },
     {
         "text": "\u0639\u0627\u0626\u0644\u0629",
-        "pronunciation": "family",
-        "priority": 60
+        "pronunciation": "ha-ilat"
     },
     {
         "text": "\u062d\u064a\u0627\u0629",
-        "pronunciation": "life",
-        "priority": 61
+        "pronunciation": "hayat"
     },
     {
         "text": "\u0644\u064a\u0644\u0629",
-        "pronunciation": "night",
-        "priority": 62
+        "pronunciation": "laylat"
     },
     {
         "text": "\u0633\u0624\u0627\u0644",
-        "pronunciation": "question",
-        "priority": 63
+        "pronunciation": "sual"
     },
     {
         "text": "\u0637\u0641\u0644",
-        "pronunciation": "child",
-        "priority": 64
+        "pronunciation": "t'fl"
     },
     {
         "text": "\u0627\u0633\u0645",
-        "pronunciation": "name",
-        "priority": 65
+        "pronunciation": "esm"
     },
     {
         "text": "\u064a\u064f\u0633\u0644\u0651\u0650\u0645",
-        "pronunciation": "hand",
-        "priority": 66
+        "pronunciation": "yusalimu"
     },
     {
         "text": "\u0623\u0633\u0628\u0648\u0639",
-        "pronunciation": "week",
-        "priority": 67
+        "pronunciation": "usbu"
     },
     {
         "text": "\u0633\u0646\u0629",
-        "pronunciation": "year",
-        "priority": 68
+        "pronunciation": "sunat"
     },
     {
         "text": "\u0645\u0634\u0643\u0644\u0629",
-        "pronunciation": "problem",
-        "priority": 69
+        "pronunciation": "mushkilo"
     },
     {
         "text": "\u0631\u062c\u0644",
-        "pronunciation": "man",
-        "priority": 70
+        "pronunciation": "rajul"
     },
     {
         "text": "\u0627\u0645\u0631\u0623\u0629",
-        "pronunciation": "woman",
-        "priority": 71
+        "pronunciation": "emra'a"
     },
     {
         "text": "\u0634\u0631\u0643\u0629",
-        "pronunciation": "company",
-        "priority": 72
+        "pronunciation": "sharika"
     },
     {
         "text": "\u0634\u064a\u0621",
-        "pronunciation": "thing",
-        "priority": 73
+        "pronunciation": "shay"
     },
     {
         "text": "\u0639\u0627\u0644\u0645",
-        "pronunciation": "world",
-        "priority": 74
+        "pronunciation": "aalam"
     },
     {
         "text": "\u0645\u0627\u0644",
-        "pronunciation": "money",
-        "priority": 75
+        "pronunciation": "mal"
     },
     {
         "text": "\u0643\u0644\u0645\u0629",
-        "pronunciation": "word",
-        "priority": 76
+        "pronunciation": "kalima"
     },
     {
         "text": "\u0639\u0645\u0631",
-        "pronunciation": "age",
-        "priority": 77
+        "pronunciation": "omaro"
     },
     {
         "text": "\u063a\u0631\u0641\u0629",
-        "pronunciation": "room",
-        "priority": 78
+        "pronunciation": "u'rfa"
     },
     {
         "text": "\u0645\u0627\u0621",
-        "pronunciation": "water",
-        "priority": 79
+        "pronunciation": "ma'"
     },
     {
         "text": "\u0645\u062f\u0631\u0633\u0629",
-        "pronunciation": "school",
-        "priority": 80
+        "pronunciation": "madrasa"
     },
     {
         "text": "\u0645\u062f\u064a\u0646\u0629",
-        "pronunciation": "city",
-        "priority": 81
+        "pronunciation": "madina"
     },
     {
         "text": "\u062c\u064a\u062f",
-        "pronunciation": "good",
-        "priority": 82
+        "pronunciation": "jheid"
     },
     {
         "text": "\u0635\u063a\u064a\u0631",
-        "pronunciation": "small",
-        "priority": 83
+        "pronunciation": "sar'ir"
     },
     {
         "text": "\u0622\u062e\u0631",
-        "pronunciation": "other",
-        "priority": 84
+        "pronunciation": "akhar"
     },
     {
         "text": "\u0633\u064a\u0621",
-        "pronunciation": "bad",
-        "priority": 85
+        "pronunciation": "sai"
     },
     {
         "text": "\u0643\u0628\u064a\u0631",
-        "pronunciation": "big",
-        "priority": 86
+        "pronunciation": "kabir"
     },
     {
         "text": "\u062c\u062f\u064a\u062f",
-        "pronunciation": "new",
-        "priority": 87
+        "pronunciation": "j'adid"
     },
     {
         "text": "\u0642\u062f\u064a\u0645",
-        "pronunciation": "old",
-        "priority": 88
+        "pronunciation": "kadim"
     },
     {
         "text": "\u0645\u062e\u062a\u0644\u0641",
-        "pronunciation": "different",
-        "priority": 89
+        "pronunciation": "mukhtalif"
     },
     {
         "text": "\u0634\u0627\u0628",
-        "pronunciation": "young",
-        "priority": 90
+        "pronunciation": "shabun"
     },
     {
         "text": "\u0637\u0648\u064a\u0644",
-        "pronunciation": "long",
-        "priority": 91
+        "pronunciation": "tawil"
     },
     {
         "text": "\u0642\u0635\u064a\u0631",
-        "pronunciation": "short",
-        "priority": 92
+        "pronunciation": "qasir"
     },
     {
         "text": "\u0646\u0641\u0633",
-        "pronunciation": "same",
-        "priority": 93
+        "pronunciation": "nafs"
     },
     {
         "text": "\u063a\u0627\u062f\u0631",
-        "pronunciation": "left",
-        "priority": 94
+        "pronunciation": "r'adara"
     },
     {
         "text": "\u064a\u0645\u064a\u0646",
-        "pronunciation": "right",
-        "priority": 95
+        "pronunciation": "yamin"
     },
     {
         "text": "\u0627\u0644\u062a\u0627\u0644\u064a",
-        "pronunciation": "next",
-        "priority": 96
+        "pronunciation": "atali"
     },
     {
         "text": "\u0623\u0648\u0644\u0627\u064b",
-        "pronunciation": "first",
-        "priority": 97
+        "pronunciation": "owlan"
     },
     {
         "text": "\u0622\u062e\u0631",
-        "pronunciation": "last",
-        "priority": 98
+        "pronunciation": "akhar"
     },
     {
         "text": "\u0645\u0647\u0645",
-        "pronunciation": "important",
-        "priority": 99
+        "pronunciation": "muhimun"
     }
 ]
