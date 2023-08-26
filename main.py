@@ -212,7 +212,16 @@ def render_option_button(option, index):
         cols[3].audio(audio_bytes, format='audio/wav')
 
 def game():
-    selected_languages = st.multiselect("what languages to include?",
+    questions_languages = st.multiselect("questions languages pool",
+                                get_available_languages(),
+                                [   "english",
+                                    "russian",
+                                    "arabic",
+                                    "japanese",
+                                    # "french",
+                                    # "spanish"
+                                ])
+    answers_languages = st.multiselect("answers languages pool",
                                 get_available_languages(),
                                 [   "english",
                                     "russian",
@@ -252,18 +261,18 @@ def game():
 
     meaning_id, meaning_eng = choose_random_word()
 
-    question_language = choose_random_language(selected_languages)
+    question_language = choose_random_language(questions_languages)
 
     question = get_word(question_language, meaning_id)
     render_question(question)
 
-    answer_language = choose_random_language(selected_languages)
+    answer_language = choose_random_language(answers_languages)
     while answer_language == question_language:
-        answer_language = choose_random_language(selected_languages)
+        answer_language = choose_random_language(answers_languages)
 
     answer = get_word(answer_language, meaning_id)
 
-    options = generate_options(meaning_id, selected_languages, question_language)
+    options = generate_options(meaning_id, answers_languages, question_language)
     options, correct_index = shuffle_options(options, answer)
 
     st.session_state['question'] = question
