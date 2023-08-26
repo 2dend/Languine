@@ -214,8 +214,7 @@ def render_option_button(option, index):
 def game():
     questions_languages = st.multiselect("questions languages pool",
                                 get_available_languages(),
-                                [   "english",
-                                    "russian",
+                                [   "russian",
                                     "arabic",
                                     "japanese",
                                     # "french",
@@ -223,10 +222,7 @@ def game():
                                 ])
     answers_languages = st.multiselect("answers languages pool",
                                 get_available_languages(),
-                                [   "english",
-                                    "russian",
-                                    "arabic",
-                                    "japanese",
+                                [   "english"
                                     # "french",
                                     # "spanish"
                                 ])
