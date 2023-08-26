@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from deep_translator import GoogleTranslator
+# from deep_translator import GoogleTranslator
 from random import randint
 import base64
 import hashlib
