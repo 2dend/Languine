@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# from deep_translator import GoogleTranslator
+from deep_translator import GoogleTranslator
 from random import randint
 import base64
 import hashlib
@@ -65,29 +65,11 @@ def create_lang(meanings, lang):
         except Exception as e:
             print(f"[!] {e}")
 
-def build_db():
+def build_db(language):
     with open('meanings.json') as f:
         meanings = json.load(f)
 
-    langs = [
-                "english",
-                "hebrew",
-                "italian",
-                "french",
-                "hindi",
-                "spanish",
-                "arabic",
-                "russian",
-                "japanese",
-                "thai",
-                "zh-CN"
-            ]
-
-    with open("languages.json", 'w') as langs_json:
-        langs_json.write(json.dumps(langs, indent=4))
-
-    for lang in langs:
-        create_lang(meanings, lang)
+    create_lang(meanings, language)
 
 def choose_random_word():
     with open("meanings.json") as meanings:
@@ -217,8 +199,7 @@ def game():
                                 [   "russian",
                                     "arabic",
                                     "japanese",
-                                    # "french",
-                                    # "spanish"
+                                    "italian"
                                 ])
     answers_languages = st.multiselect("answers languages pool",
                                 get_available_languages(),
@@ -282,11 +263,11 @@ def game():
 
 
 if __name__=="__main__":
-    st.set_page_config(layout="wide")
+    # st.set_page_config(layout="wide")
     game()
 
     # add_pronunciations(sys.argv[1])
     # word = get_word(sys.argv[1],int(sys.argv[2]))
     # print(f"{word['pronunciation']} => {word['text']}")
 
-    # build_db()
+    # build_db(sys.argv[1])

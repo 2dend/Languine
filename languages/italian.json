@@ -1,0 +1,402 @@
+[
+    {
+        "text": "IL",
+        "pronunciation": "the"
+    },
+    {
+        "text": "un, un",
+        "pronunciation": "a, an"
+    },
+    {
+        "text": "A",
+        "pronunciation": "to"
+    },
+    {
+        "text": "E",
+        "pronunciation": "and"
+    },
+    {
+        "text": "Di",
+        "pronunciation": "of"
+    },
+    {
+        "text": "In",
+        "pronunciation": "in"
+    },
+    {
+        "text": "Di",
+        "pronunciation": "about"
+    },
+    {
+        "text": "Dopo",
+        "pronunciation": "after"
+    },
+    {
+        "text": "Prima",
+        "pronunciation": "before"
+    },
+    {
+        "text": "IO",
+        "pronunciation": "I"
+    },
+    {
+        "text": "Voi",
+        "pronunciation": "you"
+    },
+    {
+        "text": "Lui",
+        "pronunciation": "he"
+    },
+    {
+        "text": "Lei",
+        "pronunciation": "she"
+    },
+    {
+        "text": "Esso",
+        "pronunciation": "it"
+    },
+    {
+        "text": "Noi",
+        "pronunciation": "we"
+    },
+    {
+        "text": "Essi",
+        "pronunciation": "they"
+    },
+    {
+        "text": "Quello",
+        "pronunciation": "that"
+    },
+    {
+        "text": "per",
+        "pronunciation": "for"
+    },
+    {
+        "text": "SU",
+        "pronunciation": "on"
+    },
+    {
+        "text": "con",
+        "pronunciation": "with"
+    },
+    {
+        "text": "Ma",
+        "pronunciation": "but"
+    },
+    {
+        "text": "da",
+        "pronunciation": "from"
+    },
+    {
+        "text": "O",
+        "pronunciation": "or"
+    },
+    {
+        "text": "Che cosa",
+        "pronunciation": "what"
+    },
+    {
+        "text": "Come",
+        "pronunciation": "how"
+    },
+    {
+        "text": "Chi",
+        "pronunciation": "who"
+    },
+    {
+        "text": "Quando",
+        "pronunciation": "when"
+    },
+    {
+        "text": "S\u00cc",
+        "pronunciation": "yes"
+    },
+    {
+        "text": "NO",
+        "pronunciation": "no"
+    },
+    {
+        "text": "Ora",
+        "pronunciation": "now"
+    },
+    {
+        "text": "Domani",
+        "pronunciation": "tomorrow"
+    },
+    {
+        "text": "Oggi",
+        "pronunciation": "today"
+    },
+    {
+        "text": "Ieri",
+        "pronunciation": "yesterday"
+    },
+    {
+        "text": "soltanto",
+        "pronunciation": "only"
+    },
+    {
+        "text": "Perch\u00e9",
+        "pronunciation": "because"
+    },
+    {
+        "text": "Essere",
+        "pronunciation": "be"
+    },
+    {
+        "text": "Avere",
+        "pronunciation": "have"
+    },
+    {
+        "text": "Fare",
+        "pronunciation": "do"
+    },
+    {
+        "text": "Ottenere",
+        "pronunciation": "get"
+    },
+    {
+        "text": "Fare",
+        "pronunciation": "make"
+    },
+    {
+        "text": "andare",
+        "pronunciation": "go"
+    },
+    {
+        "text": "Dire",
+        "pronunciation": "say"
+    },
+    {
+        "text": "Vedere",
+        "pronunciation": "see"
+    },
+    {
+        "text": "Sapere",
+        "pronunciation": "know"
+    },
+    {
+        "text": "pensare",
+        "pronunciation": "think"
+    },
+    {
+        "text": "Aspetto",
+        "pronunciation": "look"
+    },
+    {
+        "text": "Volere",
+        "pronunciation": "want"
+    },
+    {
+        "text": "Piace",
+        "pronunciation": "like"
+    },
+    {
+        "text": "Prendere",
+        "pronunciation": "take"
+    },
+    {
+        "text": "Dare",
+        "pronunciation": "give"
+    },
+    {
+        "text": "chiedere",
+        "pronunciation": "ask"
+    },
+    {
+        "text": "giorno",
+        "pronunciation": "day"
+    },
+    {
+        "text": "tempo",
+        "pronunciation": "time"
+    },
+    {
+        "text": "persona",
+        "pronunciation": "person"
+    },
+    {
+        "text": "lavoro",
+        "pronunciation": "work"
+    },
+    {
+        "text": "numero",
+        "pronunciation": "number"
+    },
+    {
+        "text": "libro",
+        "pronunciation": "book"
+    },
+    {
+        "text": "Paese",
+        "pronunciation": "country"
+    },
+    {
+        "text": "gruppo",
+        "pronunciation": "group"
+    },
+    {
+        "text": "casa",
+        "pronunciation": "home"
+    },
+    {
+        "text": "famiglia",
+        "pronunciation": "family"
+    },
+    {
+        "text": "vita",
+        "pronunciation": "life"
+    },
+    {
+        "text": "notte",
+        "pronunciation": "night"
+    },
+    {
+        "text": "domanda",
+        "pronunciation": "question"
+    },
+    {
+        "text": "bambino",
+        "pronunciation": "child"
+    },
+    {
+        "text": "nome",
+        "pronunciation": "name"
+    },
+    {
+        "text": "mano",
+        "pronunciation": "hand"
+    },
+    {
+        "text": "settimana",
+        "pronunciation": "week"
+    },
+    {
+        "text": "anno",
+        "pronunciation": "year"
+    },
+    {
+        "text": "problema",
+        "pronunciation": "problem"
+    },
+    {
+        "text": "Uomo",
+        "pronunciation": "man"
+    },
+    {
+        "text": "donna",
+        "pronunciation": "woman"
+    },
+    {
+        "text": "azienda",
+        "pronunciation": "company"
+    },
+    {
+        "text": "cosa",
+        "pronunciation": "thing"
+    },
+    {
+        "text": "mondo",
+        "pronunciation": "world"
+    },
+    {
+        "text": "soldi",
+        "pronunciation": "money"
+    },
+    {
+        "text": "parola",
+        "pronunciation": "word"
+    },
+    {
+        "text": "et\u00e0",
+        "pronunciation": "age"
+    },
+    {
+        "text": "camera",
+        "pronunciation": "room"
+    },
+    {
+        "text": "acqua",
+        "pronunciation": "water"
+    },
+    {
+        "text": "scuola",
+        "pronunciation": "school"
+    },
+    {
+        "text": "citt\u00e0",
+        "pronunciation": "city"
+    },
+    {
+        "text": "Bene",
+        "pronunciation": "good"
+    },
+    {
+        "text": "piccolo",
+        "pronunciation": "small"
+    },
+    {
+        "text": "altro",
+        "pronunciation": "other"
+    },
+    {
+        "text": "Cattivo",
+        "pronunciation": "bad"
+    },
+    {
+        "text": "grande",
+        "pronunciation": "big"
+    },
+    {
+        "text": "nuovo",
+        "pronunciation": "new"
+    },
+    {
+        "text": "vecchio",
+        "pronunciation": "old"
+    },
+    {
+        "text": "diverso",
+        "pronunciation": "different"
+    },
+    {
+        "text": "giovane",
+        "pronunciation": "young"
+    },
+    {
+        "text": "lungo",
+        "pronunciation": "long"
+    },
+    {
+        "text": "corto",
+        "pronunciation": "short"
+    },
+    {
+        "text": "Stesso",
+        "pronunciation": "same"
+    },
+    {
+        "text": "Sinistra",
+        "pronunciation": "left"
+    },
+    {
+        "text": "Giusto",
+        "pronunciation": "right"
+    },
+    {
+        "text": "Prossimo",
+        "pronunciation": "next"
+    },
+    {
+        "text": "Primo",
+        "pronunciation": "first"
+    },
+    {
+        "text": "scorso",
+        "pronunciation": "last"
+    },
+    {
+        "text": "importante",
+        "pronunciation": "important"
+    }
+]
